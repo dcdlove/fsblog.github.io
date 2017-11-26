@@ -1,0 +1,4803 @@
+    1  ls
+    2  clear
+    3  ls
+    4  pwd
+    5  sudo vim ~/.zshrc
+    6  git status
+    7  clear
+    8  ls
+    9  pwd
+   10  ls
+   11  exit
+   12  ls
+   13  pwd
+   14  sudo vim ~/.zshrc
+   15  ls
+   16  clear
+   17  ls
+   18  git status
+   19  clear
+   20  ls
+   21  git init
+   22  ls
+   23  clear
+   24  ls
+   25  pwd
+   26  ls
+   27  cd ~
+   28  ls
+   29  cd Library
+   30  ls
+   31  clear
+   32  git status
+   33  ls
+   34  git staus
+   35  git status
+   36  pwd
+   37  git status
+   38  cd ~
+   39  ls
+   40  git status
+   41  cd -
+   42  pwd
+   43  ls
+   44  git staus
+   45  git stauts
+   46  git status
+   47  clear
+   48  ls
+   49  cd ..
+   50  ls
+   51  cd Shared
+   52  ls
+   53  cd ..
+   54  ls
+   55  cd ..
+   56  ls
+   57  clear
+   58  ls
+   59  sudo vim ~/.zshrc
+   60  ls
+   61  git init
+   62  ls
+   63  cd ..
+   64  ls
+   65  exit
+   66  ls
+   67  cd ~?Des
+   68  cd ~/Desktop
+   69  ls
+   70  clear
+   71  ls
+   72  cd ~
+   73  ls
+   74  git clone https://github.com/dracula/iterm.git
+   75  ls
+   76  clear
+   77  ls
+   78  cleaer
+   79  clear
+   80  ls
+   81  clear
+   82  ls
+   83  clear
+   84  ldira
+   85  ls
+   86  cd ~/Desktop/
+   87  ls
+   88  cd nodejs
+   89  ls
+   90  cd keep_node_server
+   91  ls
+   92  sudo mocha
+   93  sudo mocha /tmp
+   94  clear
+   95  ls
+   96  vim run.sh
+   97  cd ~/.v
+   98  cd ~/.vim
+   99  ls
+  100  cd col
+  101  ls
+  102  cd autoload
+  103  ls
+  104  cd ..
+  105  ls
+  106  clear
+  107  git submodule add git@github.com:dracula/vim.git bundle/dracula-theme\n
+  108  sudo git submodule add git@github.com:dracula/vim.git bundle/dracula-theme\n
+  109  ls
+  110  sudo git submodule add git@github.com:dracula/vim.git bundle/dracula-theme\n
+  111  ls
+  112  cd bundle
+  113  ls
+  114  cd vim-colors-solarized
+  115  ls
+  116  cd colors
+  117  ls
+  118  cd ..
+  119  ls
+  120  cd ..
+  121  ls
+  122  cd ..
+  123  ls
+  124  cd autoload
+  125  la
+  126  ls
+  127  vim pathogen.vim
+  128  ls
+  129  cd ..
+  130  ls
+  131  cd bundle
+  132  ls
+  133  cd vim-colors-solarized
+  134  ls
+  135  vim README.mkd
+  136  ls
+  137  cd ..
+  138  ls
+  139  cd ..
+  140  ls
+  141  cd bundle
+  142  ls
+  143  vim ~/.vimrc
+  144  ls
+  145  git submodule add git@github.com:dracula/vim.git bundle/dracula-theme\n
+  146  git submodule add git@github.com:dracula/vim.git bundle/dracula-themels\n
+  147  ls
+  148  cd vim-colors-solarized
+  149  ls
+  150  cd colors
+  151  ls
+  152  cp /Users/wangye/Downloads/dracula.vim  .
+  153  sudo cp /Users/wangye/Downloads/dracula.vim  .
+  154  ls
+  155  vim ~/.vimrc
+  156  ls
+  157  rm -rf dracula.vim
+  158  sudo rm -rf dracula.vim
+  159  ls
+  160  cp /Users/wangye/Downloads/vim-b7e11c087fe2a9e3023cdccf17985704e27b125d/colors/dracula.vim  .
+  161  sudo cp /Users/wangye/Downloads/vim-b7e11c087fe2a9e3023cdccf17985704e27b125d/colors/dracula.vim  .
+  162  ls
+  163  ls -la
+  164  vim ~/.vimrc
+  165  ls
+  166  cd ~
+  167  ls
+  168  cd ~/Desktop
+  169  ls
+  170  vim mmregioncode4client.txt
+  171  ls
+  172  cd nodejs
+  173  ls
+  174  cd keep_all_platform/
+  175  ls
+  176  cd src
+  177  ls
+  178  vim index.vue
+  179  ls
+  180  clear
+  181  ls
+  182  sudo vim ~/.zshrc
+  183  exit
+  184  ls
+  185  clear
+  186  lcaer
+  187  pwd
+  188  ls
+  189  cd Zend
+  190  ls
+  191  cd ..
+  192  ls
+  193  cd iterm
+  194  ls
+  195  vim README.md
+  196  cd ..
+  197  ls
+  198  lsl -la
+  199  ls -la
+  200  clear
+  201  sudo vim ~/.zshrc
+  202  exit
+  203  sudo vim ~/.zshrc
+  204  exit
+  205  ls
+  206  clear
+  207  eixt
+  208  exit
+  209  ls
+  210  clear
+  211  git status
+  212  cd ~/Desktop
+  213  ls
+  214  cd no
+  215  cd nodejs
+  216  ls
+  217  cd keep_all_platform
+  218  la
+  219  vim package.json
+  220  clear
+  221  ps aux | grep build
+  222  sudo kill -9 37238
+  223  ls
+  224  ps aux | grep build
+  225  ls
+  226  clear
+  227  pwd
+  228  ls
+  229  clear
+  230  ls
+  231  cd ..
+  232  ls
+  233  sudo rm -rf keep_all_platform
+  234  ls
+  235  cd incubator-weex
+  236  ls
+  237  cd scripts
+  238  ls
+  239  ivm rat-scan.sh
+  240  vim rat-scan.sh
+  241  clear
+  242  vim ~/.zshrc
+  243  ls
+  244  clear
+  245  ls
+  246  pwd
+  247  exi
+  248  exit
+  249  ls
+  250  exit
+  251  ls
+  252  clear
+  253  ls
+  254  git status
+  255  t status
+  256  ls
+  257  git status
+  258  vim ~/.zshrc
+  259  ls
+  260  vim ~/.zshrc
+  261  exit
+  262  ls
+  263  pwd
+  264  clear
+  265  ls
+  266  cd ~/Desktop
+  267  ls
+  268  cd nodejs
+  269  ls
+  270  cd keep_node_server
+  271  ls
+  272  clear
+  273  pwd
+  274  ls
+  275  clear
+  276  ls
+  277  vim ~/.zshrc
+  278  exit
+  279  ls
+  280  clear
+  281  cd ~/Desktop
+  282  ls
+  283  cd nodejs
+  284  ls
+  285  clear
+  286  ls
+  287  cd ki
+  288  cd keep_node_server
+  289  lsclear
+  290  clear
+  291  ls
+  292  clear
+  293  ls
+  294  vim ~/.zshrc
+  295  exit
+  296  ls
+  297  cd ~/Desktop
+  298  ls
+  299  cd nodejs
+  300  ls
+  301  vim ~/.zshrc
+  302  exit
+  303  ls
+  304  celar
+  305  ls
+  306  cealr
+  307  ls
+  308  clear
+  309  ls
+  310  vim ~/.zshrc
+  311  exit
+  312  ls
+  313  clear
+  314  ls
+  315  s
+  316  clear
+  317  ls
+  318  lcear
+  319  clear
+  320  ls
+  321  clear
+  322  vim ~/.zshrc
+  323  exit
+  324  ls
+  325  clear
+  326  ls
+  327  clear
+  328  vim ~/.zshrc
+  329  exit
+  330  ls
+  331  clear
+  332  ls
+  333  pwd
+  334  ls
+  335  cd /Users/wangye/.oh-my-zsh/themes/
+  336  ls
+  337  clear
+  338  ls
+  339  ls sun*.*
+  340  ls drac*.*
+  341  cd ~
+  342  l
+  343  ls
+  344  git clone https://github.com/dracula/zsh.git
+  345  ls
+  346  cd zsh
+  347  ls
+  348  pwd
+  349  mv dracula.zsh-theme /Users/wangye/.oh-my-zsh/themes/.
+  350  exit
+  351  ls
+  352  clear
+  353  cd ~/Desktop
+  354  ls
+  355  c dno
+  356  cd nodejs
+  357  ls
+  358  clear
+  359  ls
+  360  cd wee
+  361  cd week-test/
+  362  ls
+  363  clear
+  364  pwd
+  365  ls
+  366  cd ..
+  367  ls
+  368  rm -rf week-test
+  369  ls
+  370  clear
+  371  ls
+  372  clear
+  373  ls
+  374  cd keep_node_server
+  375  ls
+  376  clear
+  377  ls
+  378  clar
+  379  clear
+  380  vim ~/.zshrc
+  381  ls
+  382  clear
+  383  cd ~
+  384  ls
+  385  pwd
+  386  ls
+  387  clear
+  388  ls
+  389  s
+  390  clear
+  391  ls
+  392  ls -la
+  393  cear
+  394  clear
+  395  cd ~/Desktop
+  396  ls
+  397  vim 0\ \ 2017王晔个人简历_cn\ 13488689005.doc
+  398  vim mmregioncode4client
+  399  vim mmregioncode4client.txt
+  400  ls
+  401  clear
+  402  ls
+  403  clear
+  404  ls
+  405  cd nodejs
+  406  ls
+  407  cd test_exp
+  408  ls
+  409  vim package.json
+  410  vim app.js
+  411  cd ..
+  412  ls
+  413  clear
+  414  weex init keep_all
+  415  ls
+  416  cd keep_
+  417  ls
+  418  cd keep_all
+  419  ls
+  420  clear
+  421  vim package.json
+  422  clear
+  423  ls
+  424  npm install
+  425  ls
+  426  vim package.json
+  427  sudo npm run debug src/foo.vue
+  428  cd ~
+  429  ls
+  430  git clone https://github.com/dracula/jetbrains.git
+  431  cd jetbrains
+  432  ls
+  433  cd ..
+  434  ls
+  435  cd jetbrains
+  436  ls
+  437  vim README.md
+  438  ls
+  439  cd ..
+  440  ls
+  441  mv jetbrains  aaaa
+  442  ls
+  443  cd aaaa/ls
+  444  ls
+  445  cd aaaa
+  446  ls
+  447  cd ..
+  448  ls
+  449  mkdir ~/.WebStorm/config
+  450  sudo mkdir ~/.WebStorm/config
+  451  cd ~/.WebStorm
+  452  mkdir -p ~/.WebStorm/config
+  453  cd aaaa
+  454  ls
+  455  cp Dracula.icls ~/.WebStorm/config/colors/.
+  456  mkdir ~/.WebStorm/config/colors/
+  457  cp Dracula.icls ~/.WebStorm/config/colors/.
+  458  ls
+  459  cd ..
+  460  ls
+  461  rm -rf aaaa
+  462  ls
+  463  cd Library
+  464  ls
+  465  cd ..
+  466  ls
+  467  pwd
+  468  sudo rm -rf ~/.WebStorm
+  469  ls
+  470  clear
+  471  cd ~/Desktop
+  472  ls
+  473  cd nodejs
+  474  ls
+  475  git clone https://github.com/vuejs/vue-hackernews-2.0.git
+  476  ls
+  477  opne .
+  478  open .
+  479  ls
+  480  clear
+  481  ls
+  482  cd vue-hackernews-2.0
+  483  ls
+  484  clear
+  485  ls
+  486  vim package.json
+  487  npm install
+  488  ls
+  489  npm run dev
+  490  npm run build
+  491  npm start
+  492  exit
+  493  ls
+  494  cd ~/Desktop
+  495  ls
+  496  cd nodejs
+  497  ls
+  498  mkdir 111
+  499  ls
+  500  git clone git@github.com:weexteam/weex-hackernews.git
+  501  sudo git clone git@github.com:weexteam/weex-hackernews.git
+  502  ls
+  503  cd ..
+  504  sl
+  505  ls
+  506  rm -rf 111
+  507  ls
+  508  rm -rf vue-hackernews-2.0
+  509  ls
+  510  sudo git clone git@github.com:weexteam/weex-hackernews.git
+  511  sudo git clone https://github.com/weexteam/weex-hackernews.git
+  512  ls
+  513  open .
+  514  ls
+  515  clear
+  516  ls
+  517  cd weex-hackernews
+  518  ls
+  519  npm install
+  520  sudo npm install
+  521  sudo npm run build
+  522  sudo npm run dev
+  523  sudo npm run serve
+  524  sudo npm run serve --qr
+  525  open .
+  526  ls
+  527  pwd
+  528  cd ios
+  529  ls
+  530  clear
+  531  ls
+  532  pod install
+  533  ls
+  534  clear
+  535  ls
+  536  sudo pod install
+  537  pod installl
+  538  clear
+  539  pwd
+  540  ls
+  541  pod install
+  542  sudo pod install
+  543  pod update
+  544  cd ~/Desktop
+  545  ls
+  546  cd nodejs
+  547  ls
+  548  cd weex-hackernews
+  549  ls
+  550  npm run build
+  551  sudo npm run build
+  552  sudo npm run copy:ios
+  553  sudo npm run serve
+  554  ls
+  555  cd ios
+  556  ls
+  557  sudo pod install
+  558  pod install
+  559  sudo pod update
+  560  pod update
+  561  open .
+  562  cd /Users/wangye/Downloads/
+  563  ls
+  564  clear
+  565  sudo chmod 777 qrsboxcli
+  566  ls
+  567  ./qrsboxcli
+  568  pwd
+  569  mkdir qiniu_upload
+  570  ./qrsboxcli init 9WgO8e2X_a54SjM1rhsefhP0tHSWSE0t6xEsW8Qz H5F7owWSNWMYQvDRJbr3sIsHB3jz5Kh5O4bu5Wnj ~/Desktop/qiniu_upload fengshui mac
+  571  ./qrsboxcli sync &
+  572  ./qrsboxcli log
+  573  ls
+  574  ./qrsboxcli
+  575  ./qrsboxcli status
+  576  ./qrsboxcli stop
+  577  vim ~/.qrsboxcli/qrsbox.conf
+  578  ~/.qrsboxcli
+  579  exit
+  580  cd /Users/wangye/Downloads/
+  581  ls
+  582  clear
+  583  ./qrsboxcli sync &
+  584  ./qrsboxcli log
+  585  ls
+  586  cd ~
+  587  ls
+  588  .qrsboxcli
+  589  ls
+  590  vim qrsbox.log
+  591  ls
+  592  cd ..
+  593  ls
+  594  ls -la
+  595  cd .qrsboxcli
+  596  ls
+  597  vim pid.qrsboxcli
+  598  cd ..
+  599  ls
+  600  cd =
+  601  cd -
+  602  ls
+  603  cd ..
+  604  ls
+  605  ps aux | grep qrs
+  606  ps aux | grep qrs*
+  607  cd /Users/wangye/Downloads/
+  608  ls
+  609  clear
+  610  ./qrsboxcli stop
+  611  ./qrsboxcli sync &
+  612  ./qrsboxcli init 9WgO8e2X_a54SjM1rhsefhP0tHSWSE0t6xEsW8Qz H5F7owWSNWMYQvDRJbr3sIsHB3jz5Kh5O4bu5Wnj ~/Desktop/qiniu_upload fengshui
+  613  ./qrsboxcli sync &
+  614  ./qrsboxcli log
+  615  vim ~/.qrsboxcli/qrsbox.log
+  616  vim ~/.qrsboxcli/qrsbox.conf
+  617  vim ~/.qrsboxcli/qrsbox.log
+  618  pwd
+  619  ,s
+  620  ls
+  621  clear
+  622  ./qrsboxcli stop
+  623  ./qrsboxcli init 9WgO8e2X_a54SjM1rhsefhP0tHSWSE0t6xEsW8Qz H5F7owWSNWMYQvDRJbr3sIsHB3jz5Kh5O4bu5Wnj ~/Desktop/qiniu_upload fengshui
+  624  ./qrsboxcli init 9WgO8e2X_a54SjM1rhsefhP0tHSWSE0t6xEsW8Qz H5F7owWSNWMYQvDRJbr3sIsHB3jz5Kh5O4bu5Wnj ~/Desktop/qiniu_upload fengshui-dong mac
+  625  ./qrsboxcli stop
+  626  ./qrsboxcli init 9WgO8e2X_a54SjM1rhsefhP0tHSWSE0t6xEsW8Qz H5F7owWSNWMYQvDRJbr3sIsHB3jz5Kh5O4bu5Wnj ~/Desktop/qiniu_upload fengshui-dong mac
+  627  ls
+  628  ./qrsboxcli sync &
+  629  ./qrsboxcli log
+  630  ./qrsboxcli stop
+  631  ./qrsboxcli init 9WgO8e2X_a54SjM1rhsefhP0tHSWSE0t6xEsW8Qz H5F7owWSNWMYQvDRJbr3sIsHB3jz5Kh5O4bu5Wnj ~/Desktop/qiniu_upload fengshui-dong
+  632  ./qrsboxcli log
+  633  ./qrsboxcli stop
+  634  ./qrsboxcli init 9WgO8e2X_a54SjM1rhsefhP0tHSWSE0t6xEsW8Qz H5F7owWSNWMYQvDRJbr3sIsHB3jz5Kh5O4bu5Wnj ~/Desktop/qiniu_upload fengshui-dong
+  635  ./qrsboxcli log
+  636  ./qrsboxcli stop
+  637  cd ~/Desktop
+  638  ls
+  639  cd nodejs
+  640  ls
+  641  git clone https://github.com/osmartian/weex-frame.git
+  642  ls
+  643  cd weex
+  644  ls
+  645  cd weex
+  646  ls
+  647  cd weex-frame
+  648  ls
+  649  celar
+  650  vim package.json
+  651  ls
+  652  pwd
+  653  cnpm install 
+  654  vim start
+  655  clear
+  656  ./start
+  657  npm run init serve
+  658  ./start
+  659  ls
+  660  cd platforms
+  661  ls
+  662  cd ios
+  663  ls
+  664  pod install
+  665  open .
+  666  weexpack run ios
+  667  cd ..
+  668  ls
+  669  cd ..
+  670  ls
+  671  weekpack run ios
+  672  we
+  673  weex
+  674  weex --vresion
+  675  weex --version
+  676  weexpack
+  677  cnpm install -g weexpack
+  678  weexpack
+  679  weexpack run ios
+  680  /Users/wangye/Desktop/nodejs/weex-frame/start ; exit;
+  681  weex run ios
+  682  weexpack run ios
+  683  ls
+  684  open .
+  685  pwd
+  686  clear
+  687  ./start
+  688  cd ~/Desktop/nodejs
+  689  ls
+  690  cd weex-frame
+  691  ls
+  692  clear
+  693  weexpack run ios
+  694  clear
+  695  weexpack run web
+  696  /Users/wangye/Desktop/nodejs/weex-frame/start ; exit;
+  697  ls
+  698  clear
+  699  pwd
+  700  cd ~/Desktop
+  701  ls
+  702  pwd
+  703  cd nodejs
+  704  ls
+  705  cd weex-frame
+  706  ls
+  707  pwd
+  708  ls
+  709  clear
+  710  ls
+  711  ./start
+  712  npm run init serve
+  713  npm run init local
+  714  npm run init serve
+  715  ./start
+  716  cd ~/Desktop
+  717  ls
+  718  cd nodejs
+  719  ls
+  720  cd weex-frame
+  721  ls
+  722  ./start
+  723  clear
+  724  ./start
+  725  ls
+  726  weekpack run ios
+  727  ls
+  728  pwd
+  729  weekpack
+  730  pwd
+  731  ls
+  732  weex run ios
+  733  open .
+  734  ls
+  735  ./start
+  736  cd ~/Desktop
+  737  ls
+  738  cd nodejs
+  739  ls
+  740  cd weex-frame
+  741  ls
+  742  vim package.json
+  743  npm run init
+  744  npm run init serve
+  745  npm run init local
+  746  vim package.json
+  747  npm run copy
+  748  sudo npm run copy
+  749  vim package.json
+  750  weex
+  751  weex platform add ios
+  752  week run ios
+  753  weex run ios
+  754  open .
+  755  ls
+  756  l
+  757  cd ..
+  758  ls
+  759  cd keep_all
+  760  ls
+  761  vim package.json
+  762  npm run build
+  763  sudo npm run build
+  764  sudo npm run dev & npm run serve
+  765  sudo npm run dev
+  766  sudo npm run serve
+  767  cd ~/Desktop
+  768  ls
+  769  cd nodejs/
+  770  ls
+  771  cd keep_all
+  772  ls
+  773  vim package.json
+  774  npm run debug
+  775  vim package.json
+  776  npm run server
+  777  npm run serve
+  778  sudo npm run serve
+  779  vim package.json
+  780  sudo npm run build
+  781  sudo npm run serve
+  782  sudo weex serve
+  783  vim package.json
+  784  sudo npm run dev
+  785  sudo npm run serve
+  786  sudo npm run dev & npm run serve
+  787  ls
+  788  vim package.json
+  789  clear
+  790  cd ..
+  791  lua
+  792  brew info lua
+  793  brew install lua
+  794  lua
+  795  ls
+  796  vim hello.lua
+  797  ./lua hello.lua
+  798  lua hello.lua
+  799  /Users/wangye/Downloads/p0sixspwn.mac_iphone.paopaoche.net/p0sixspwn_mac/Contents/MacOS/p0sixspwn ; exit;
+  800  ftp ?
+  801  ftp
+  802  ftp 192.168.1.103 2121
+  803  cd ~/Desktop
+  804  ls
+  805  mkdir pppp
+  806  cd pppp
+  807  ls
+  808  cp /Users/wangye/Desktop/iPod5,1_8.4.1_12H321_Restore.ipsw  .
+  809  cp -R /Users/wangye/Downloads/odysseusOTA2 .
+  810  pwd
+  811  ls
+  812  pwd
+  813  ls
+  814  clear
+  815  ls
+  816  cd odysseusOTA2
+  817  ls
+  818  cd macos
+  819  ls
+  820  pwd
+  821  ./ipsw ../../iPod5,1_8.4.1_12H321_Restore.ipsw custom_downgrade.ipsw -bbupdate
+  822  ./ipsw
+  823  clear
+  824  ./ipsw ../../iPod5,1_8.4.1_12H321_Restore.ipsw custom_downgrade.ipsw --bbupdate
+  825  pwd
+  826  ls
+  827  ./ipsw ../../iPod5,1_8.4.1_12H321_Restore.ipsw custom_downgrade.ipsw --bbupdate
+  828  ls
+  829  ./ipsw ../../iPod5,1_9.3.4_13G35_Restore.ipsw custom_downgrade.ipsw -bbupdate
+  830  ls
+  831  cd FirmwareBundles
+  832  ls
+  833  ls -la
+  834  ls
+  835  cd ..
+  836  ls
+  837  pwd
+  838  cd ..
+  839  s
+  840  cd ..
+  841  ls
+  842  clear
+  843  cd PP越狱.app
+  844  ls
+  845  cd ..
+  846  ls
+  847  pwd
+  848  cd ~/Desktop
+  849  ls
+  850  cd pppp
+  851  ls
+  852  cd odysseusOTA
+  853  ls
+  854  cd macos
+  855  ls
+  856  pwd
+  857  ./ipsw ../../iPod5,1_8.4.1_12H321_Restore.ipsw custom_downgrade.ipsw -bbupdate
+  858  pwd
+  859  cd ..
+  860  ls
+  861  cd ..
+  862  ls
+  863  pwd
+  864  clear
+  865  ls
+  866  cd odysseusOTA2
+  867  ls
+  868  cd macos
+  869  ls
+  870  ./ipsw ../../iPhone5,2_8.4.1_12H321_Restore.ipsw custom_downgrade.ipsw -bbupdate
+  871  ./idevicerestore -t custom_downgrade.ipsw
+  872  ls
+  873  ls -la
+  874  ./idevicerestore -t custom_downgrade.ipsw
+  875  lsof -i
+  876  adb
+  877  brew info adb
+  878  lsof -i:7555
+  879  ps aux | grep mumu
+  880  brew cask install android-platform-tools\n
+  881  adb devices
+  882  adb connect:127.0.0.1:7555
+  883  adb connect 127.0.0.1:7555
+  884  clear
+  885  adb devices
+  886  adb connect 127.0.0.1:5554
+  887  adb forward tcp:50005 tcp:50005
+  888  ls
+  889  set /a num=15
+  890  ls
+  891  clear
+  892  for /l %%i in (1,1,2000) do echo Waiting... > nul
+  893  lsof 
+  894  lsof -port
+  895  lsof -p
+  896  ps
+  897  ps aux
+  898  ps aux | grep mumu
+  899  ps aux | grep clea
+  900  lsof -i tcp:port
+  901  lsof -i tcp:7775
+  902  lsof -i tcp:50005
+  903  netstat
+  904  adb service
+  905  adb devices
+  906  adb connect emulator-5554
+  907  ifconfig
+  908  lsof -i tcp:50005
+  909  ifoncifg
+  910  ifconfig
+  911  adb devices
+  912  adb shell
+  913  adb get-product
+  914  adb devices
+  915  adb devices emulator-5554
+  916  adb devices -l
+  917  adb forward tcp:50005 tcp:50005
+  918  telnet 127.0.0.1 50005
+  919  ifconfig
+  920  iptable
+  921  iptab
+  922  telnet 127.0.0.1 50005
+  923  ifconfig
+  924  clear
+  925  lsof -i tcp:50005
+  926  sudo find / -name nginx*.conf
+  927  sudo find / -name *.conf
+  928  find / -name nginx.conf
+  929  sudo find / -name nginx.conf
+  930  sudo vim /usr/local/etc/nginx/nginx.conf
+  931  iptab5.18
+  932  sudo vim /usr/local/etc/nginx/nginx.conf
+  933  cd /usr/local/etc/nginx/servers/
+  934  ls
+  935  ls -l
+  936  cd ..
+  937  ls
+  938  cp nginx.conf servers/game.conf
+  939  cd servers
+  940  ls
+  941  vim game.conf
+  942  ngintx -T
+  943  nginx -T
+  944  vim game.conf
+  945  nginx -T
+  946  clear
+  947  nginx -T
+  948  nginx -t
+  949  s
+  950  ls
+  951  rm -rf game.conf
+  952  ls
+  953  :q
+  954  iptab
+  955  ipt
+  956  adb service
+  957  adb device
+  958  adb devices
+  959  adb logcat
+  960  adb reboot
+  961  lsof -i:50005
+  962  lsof -i port:50005
+  963  lsof -i tcp:50005
+  964  adb devices
+  965  adb forward tcp:50005 tcp:50005
+  966  lsof -i tcp:50005
+  967  telnet 127.0.0.1 50005
+  968  telnet 127.0.0.1 50006
+  969  ipt
+  970  iptab
+  971  iptab5.18
+  972  clear
+  973  ipfw list
+  974  iptab list
+  975  ipf
+  976  ipfw
+  977  clear
+  978  netstat -nat 
+  979  netstat -nat | grep 50005
+  980  netstat -nat | grep LISTEN
+  981  lsof -i:8080
+  982  lsof -i:8000
+  983  lsof -i:80
+  984  lsof -i:50005
+  985  netstat -tnl 
+  986  netstat -tnl | grep 23
+  987  netstat -tnl | grep 50005
+  988  netstat -tnl
+  989  clear
+  990  netstat -tnl | grep 50005
+  991  netstat -tnl | grep 8080
+  992  netstat -tnl
+  993  lsof -i tcp:50005 
+  994  lsof -i tcp:50005 | grep LISTEN
+  995  sh
+  996  clear
+  997  ssh
+  998  cat /etc/pf.conf
+  999  ping 192.168.1.103
+ 1000  telnet 127.0.0.1 57775
+ 1001  lsof -i :50005
+ 1002  adb reboot
+ 1003  adb devices
+ 1004  adb forward tcp:50005 tcp:50005
+ 1005  lsof -i port:50005
+ 1006  lsof -i :50005
+ 1007  pwd
+ 1008  clear
+ 1009  vim ~/.ssh/
+ 1010  sudo vim /etc/pf.conf
+ 1011  sudo pfctl -f /etc/pf.conf
+ 1012  sudo pfctl -e
+ 1013  sudo vim /etc/pf.conf
+ 1014  sudo pfctl -f /etc/pf.conf
+ 1015  sudo pfctl -e
+ 1016  lsof -i :50006
+ 1017  lsof -i :50005
+ 1018  sudo vim /etc/pf.conf
+ 1019  sudo pfctl -e
+ 1020  sudo pfctl -E
+ 1021  adb forward --list
+ 1022  adb forward --remove tcp:50005
+ 1023  adb forward --list
+ 1024  adb forward tcp:50005 tcp:50005
+ 1025  adb forward list
+ 1026  adb forward --list
+ 1027  adb forward --remove
+ 1028  adb forward --removeall
+ 1029  lsof -i :50005
+ 1030  adb forward --list
+ 1031  adb forward tcp:50005 tcp:50005
+ 1032  lsof -i :50005
+ 1033  adb forward --remove
+ 1034  adb forward --remove all
+ 1035  adb forward --list
+ 1036  adb forward --remove
+ 1037  adb forward --Remove
+ 1038  adb forward help
+ 1039  adb forward --help
+ 1040  adb forward --remove
+ 1041  adb forward --remove-all
+ 1042  adb forward tcp:50004 tcp:50005
+ 1043  adb forward --list
+ 1044  telnet 127.0.0.1 50005
+ 1045  telnet 127.0.0.1 50004
+ 1046  adb devices
+ 1047  adb forward --list
+ 1048  adb forward --remove all
+ 1049  adb forward --remove-all
+ 1050  adb forward tcp:50005 tcp:50004
+ 1051  telnet 127.0.0.1 50005
+ 1052  adb forward --remove-all
+ 1053  adb forward tcp:50005 tcp:50005
+ 1054  telnet 192.168.1.101 50006
+ 1055  adb forward --list
+ 1056  adb devices
+ 1057  lsof -i :5554
+ 1058  adb forward --list
+ 1059  lsof -i :50006
+ 1060  android list 
+ 1061  adb devices
+ 1062  adb forward --list
+ 1063  adb forward --remove -all
+ 1064  adb forward --remove-all
+ 1065  adb reverse --list
+ 1066  adb reverse tcp:50005 tcp:50005
+ 1067  adb disconnect
+ 1068  adb forward --list
+ 1069  adb devices
+ 1070  adb forward tcp:50005 tcp:50005
+ 1071  ifconfig
+ 1072  adb forward --remove-all
+ 1073  adb forward tcp:50005 tcp:50004
+ 1074  adb forward --remove-all
+ 1075  adb forward tcp:50004 tcp:50004
+ 1076  adb forward --remove-all
+ 1077  adb forward tcp:50004 tcp:50005
+ 1078  adb devies
+ 1079  adb devices
+ 1080  adb
+ 1081  adb devices
+ 1082  exit
+ 1083  adb devies
+ 1084  adb devices
+ 1085  adb devies
+ 1086  adb devices
+ 1087  adb connect 127.0.0.1:7555
+ 1088  telnet 127.0.0.1 7555
+ 1089  adb connect 127.0.0.1:5555
+ 1090  adb devices
+ 1091  adb forward tcp:50004 tcp:50005
+ 1092  ifconfig
+ 1093  adb devices
+ 1094  adb forward --list
+ 1095  adb devices
+ 1096  adb forward --list
+ 1097  adb connect 127.0.0.1:5555
+ 1098  adb devices
+ 1099  adb forward tcp:50004 tcp:50005
+ 1100  adb devices
+ 1101  adb forward
+ 1102  adb forward --list
+ 1103  adb devices
+ 1104  pcalc
+ 1105  brew install pcalc
+ 1106  pcalc
+ 1107  ipcalc
+ 1108  clear
+ 1109  cd ~/Desktop
+ 1110  ls
+ 1111  cd /Applications/010\ Editor.app
+ 1112  ls
+ 1113  cd ..
+ 1114  ls
+ 1115  cd ~/Desktop
+ 1116  ls
+ 1117  mv 010 Editor.app 010 Editor
+ 1118  ls
+ 1119  cd /Applications/010\ Editor.app/Contents/MacOS/
+ 1120  ls
+ 1121  clear
+ 1122  ls
+ 1123  ls -la
+ 1124  /Applications/010\ Editor.app/Contents/MacOS/010\ Editor ; exit;
+ 1125  ls
+ 1126  ls -la
+ 1127  chmod 777 010\ Editor
+ 1128  ls -la
+ 1129  cd ~/Dea
+ 1130  cd ~/Desktop
+ 1131  ls
+ 1132  \nsvn co http://svn.howett.net/svn/theos/trunk $THEOS
+ 1133  \nsvn co http://svn.howett.net/svn/theos/trunk
+ 1134  curl -s http://dl.dropbox.com/u/3157793/ldid > ~/Desktop/ldid
+ 1135  brew install dpkg
+ 1136  sudo brew install ldid
+ 1137  brew install ldid
+ 1138  cd ~/Desktop/trunk/bin
+ 1139  ls
+ 1140  clear
+ 1141  ls
+ 1142  ./nic.pl
+ 1143  export THEOS=~/Desktop/theos
+ 1144  svn co http://svn.howett.net/svn/theos/trunk $THEOS\n
+ 1145  ls
+ 1146  cd ~/Desktop/theos
+ 1147  ls
+ 1148  clear
+ 1149  cd bin
+ 1150  ls
+ 1151  ./nic.pl
+ 1152  cd ..
+ 1153  ls
+ 1154  cd ..
+ 1155  ls
+ 1156  cd theos
+ 1157  ls
+ 1158  clear
+ 1159  cd ..
+ 1160  ls
+ 1161  clear
+ 1162  $THEOS/bin/nic.pl
+ 1163  cd ~/Desktop
+ 1164  ls
+ 1165  cd test_app
+ 1166  ls
+ 1167  clear
+ 1168  make install
+ 1169  make
+ 1170  make clean
+ 1171  clear
+ 1172  make
+ 1173  make -v
+ 1174  clar
+ 1175  clear
+ 1176  vim Makefile
+ 1177  clear
+ 1178  ls
+ 1179  export SDKVERSION=10.3
+ 1180  export THEOS_DEVICE_IP=127.0.0.1
+ 1181  ls
+ 1182  clear
+ 1183  make
+ 1184  clear
+ 1185  make package
+ 1186  clear
+ 1187  make install
+ 1188  cd ..
+ 1189  cd ~/Desktop
+ 1190  ls
+ 1191  git clone --recursive https://github.com/theos/theos.git $THEOS
+ 1192  ls
+ 1193  sudo chown
+ 1194  sudo chown theos
+ 1195  sudo chown(id-u)
+ 1196  sudo chown
+ 1197  ls -la
+ 1198  sudo chmod 777 theos
+ 1199  ls
+ 1200  ls -la
+ 1201  export THEOS=~/Desktop/theos
+ 1202  clear
+ 1203  $THEOS
+ 1204  clar
+ 1205  pwd
+ 1206  cd ~/Desktop
+ 1207  ls
+ 1208  clear
+ 1209  $THEOS/bin/nic.pl
+ 1210  exprot SDKVERIONS=10.3
+ 1211  export SDKVERSION=10.3
+ 1212  export THEOS_DEVICE_IP=10.10.100.101
+ 1213  pwd
+ 1214  cd testtheos
+ 1215  ls
+ 1216  clear
+ 1217  make
+ 1218  make package
+ 1219  make clean
+ 1220  clear
+ 1221  make
+ 1222  claer
+ 1223  clear
+ 1224  make package
+ 1225  ls
+ 1226  cd ..
+ 1227  ls
+ 1228  clear
+ 1229  $THEOS/bin/nic.pl
+ 1230  ls
+ 1231  cd test_weak
+ 1232  ls
+ 1233  clear
+ 1234  make
+ 1235  make package
+ 1236  cd ~/Desktop/theos
+ 1237  ls
+ 1238  cd vendor/include/SpringBoard
+ 1239  ls
+ 1240  vim SBLockScreenManager.h 
+ 1241  cd ~/Desktop/testtheos
+ 1242  ls
+ 1243  make clean
+ 1244  clear
+ 1245  make
+ 1246  make package
+ 1247  dpkg-deb
+ 1248  clear
+ 1249  make package
+ 1250  cd ~/Desktop/theos/bin
+ 1251  ls
+ 1252  sudo chmod 777 ldid
+ 1253  ls -la
+ 1254  ls
+ 1255  cd ~
+ 1256  ls
+ 1257  clear
+ 1258  sudo port install dpkg
+ 1259  prot
+ 1260  brew install kpkg
+ 1261  brew install dpkg
+ 1262  dpkg
+ 1263  por
+ 1264  port
+ 1265  owd
+ 1266  pwd
+ 1267  cd /Users/wangye/Desktop/testtheos 
+ 1268  ks
+ 1269  ls
+ 1270  clear
+ 1271  make clean
+ 1272  make 
+ 1273  clear
+ 1274  make package
+ 1275  cd ..
+ 1276  ls
+ 1277  cd ..
+ 1278  ls
+ 1279  clear
+ 1280  pwd
+ 1281  cd ~/Desktop
+ 1282  ls
+ 1283  clear
+ 1284  $THEOS/bin/nic.pl
+ 1285  cd test
+ 1286  ls
+ 1287  clear
+ 1288  make
+ 1289  make package
+ 1290  cd ..
+ 1291  ls
+ 1292  $THEOS/bin/nic.pl
+ 1293  cd ..
+ 1294  ls
+ 1295  cd ~/Desktop
+ 1296  git clone https://github.com/theos/theos.git
+ 1297  cd $THEOS/bin
+ 1298  ls
+ 1299  cd ..
+ 1300  ls
+ 1301  cd ..
+ 1302  ls
+ 1303  $THEOS/bin/nic.pl
+ 1304  cd test_app
+ 1305  ls
+ 1306  make
+ 1307  cd ..
+ 1308  ls
+ 1309  pwd
+ 1310  git clone --recursive https://github.com/theos/theos.git
+ 1311  cd test_app
+ 1312  ls
+ 1313  clear
+ 1314  ls
+ 1315  make
+ 1316  clear
+ 1317  make package
+ 1318  clear
+ 1319  make
+ 1320  pwd
+ 1321  make
+ 1322  cd ..
+ 1323  ls
+ 1324  rm -rf test_app
+ 1325  ls
+ 1326  $THEOS/bin/nic.pl
+ 1327  cd test_app
+ 1328  ls
+ 1329  make
+ 1330  make package
+ 1331  dpkg
+ 1332  clear
+ 1333  dpkg
+ 1334  dpkg-deb
+ 1335  clear
+ 1336  make clean
+ 1337  make 
+ 1338  make
+ 1339  clear
+ 1340  make clean
+ 1341  make
+ 1342  make package
+ 1343  pwd
+ 1344  cd ..
+ 1345  ls
+ 1346  cd theos
+ 1347  ls
+ 1348  cd makefiles/package/
+ 1349  ls
+ 1350  vim deb.mk
+ 1351  cd ~/Desktop/test_app
+ 1352  ls
+ 1353  clear
+ 1354  make package
+ 1355  make install
+ 1356  c;ear
+ 1357  clear
+ 1358  make clean
+ 1359  make
+ 1360  make package
+ 1361  pwd
+ 1362  cd ..
+ 1363  ls
+ 1364  cd ..
+ 1365  ls
+ 1366  cd ~/Desktop
+ 1367  ls
+ 1368  $THEOS/bin/nic.pl
+ 1369  cd test
+ 1370  ls
+ 1371  make
+ 1372  make package
+ 1373  cd ..
+ 1374  ls
+ 1375  cd ~/Desktop
+ 1376  ls
+ 1377  clear
+ 1378  ls
+ 1379  clear
+ 1380  $THEOS/bin/nic.pl
+ 1381  cd test
+ 1382  ls
+ 1383  make
+ 1384  make package
+ 1385  cd ..
+ 1386  $THEOS/bin/nic.pl
+ 1387  cd test
+ 1388  ls
+ 1389  cd ..
+ 1390  rm -rf test
+ 1391  $THEOS/bin/nic.pl
+ 1392  cd test
+ 1393  ls
+ 1394  cd ..
+ 1395  $THEOS/bin/nic.pl
+ 1396  cd test
+ 1397  ls
+ 1398  make
+ 1399  make package
+ 1400  cd ..
+ 1401  ls
+ 1402  $THEOS/bin/nic.pl
+ 1403  pwd
+ 1404  git clone git@git.oschina.net:yearnwang/iphone-trojan.git
+ 1405  cd iphone-trojan
+ 1406  ls
+ 1407  git add .
+ 1408  git commit -m "frist import project"
+ 1409  git pull
+ 1410  git push
+ 1411  扯淡。。
+ 1412  cd ..
+ 1413  ls
+ 1414  git clone https://github.com/curl/curl.git
+ 1415  ls
+ 1416  cd curl
+ 1417  ls
+ 1418  vim buildconf
+ 1419  clear
+ 1420  ./buildconf
+ 1421  brew install automake
+ 1422  ./buildconf
+ 1423  brew install libtoolize
+ 1424  brew install libtool*
+ 1425  ./buildconf
+ 1426  clear
+ 1427  ./buildconf
+ 1428  brew install libtool
+ 1429  ./buildconf
+ 1430  ./configure
+ 1431  make
+ 1432  sudo make install
+ 1433  ls /usr/local/lib/libcur*.*
+ 1434  cd scripts
+ 1435  cd ..
+ 1436  ls
+ 1437  cd ..
+ 1438  cd iphone-trojan
+ 1439  ls
+ 1440  vim Ma
+ 1441  vim Makefile
+ 1442  curl-config
+ 1443  curl-config -libs
+ 1444  curl-config --libs
+ 1445  curl-config --static-libs
+ 1446  ls
+ 1447  cd ..
+ 1448  ls
+ 1449  cd ~/Desktop
+ 1450  ls
+ 1451  cd curl
+ 1452  ls
+ 1453  make clean
+ 1454  ./configure --disable-shared
+ 1455  make
+ 1456  sudo make install
+ 1457  curl-config --libs
+ 1458  curl-config --version
+ 1459  curl-config ?
+ 1460  curl-config 
+ 1461  curl-config --built-shared
+ 1462  curl-config --static-libs
+ 1463  make clean
+ 1464  ./configure --with-darwinssl
+ 1465  make
+ 1466  sudo make install
+ 1467  ls /bin
+ 1468  pwd
+ 1469  make clean
+ 1470  ./buildconf
+ 1471  ./configure
+ 1472  sudo make install
+ 1473  cd ..
+ 1474  ls
+ 1475  cd iphone-trojan
+ 1476  ls
+ 1477  make clean
+ 1478  make
+ 1479  ls
+ 1480  vim README.md
+ 1481  cd obj
+ 1482  ls
+ 1483  cd ..
+ 1484  ls
+ 1485  vim Makefile
+ 1486  make
+ 1487  vim Makefile
+ 1488  cd ..
+ 1489  ls
+ 1490  cd theos/makefiles
+ 1491  ls
+ 1492  vim common.mk
+ 1493  clear
+ 1494  cd ..
+ 1495  ls
+ 1496  clear
+ 1497  pwd
+ 1498  cd bin
+ 1499  ls
+ 1500  clear
+ 1501  cd ~/Desktop
+ 1502  ls
+ 1503  clear
+ 1504  $THEOS/bin/nic.pl
+ 1505  cd app_inject_lib
+ 1506  ls
+ 1507  clear
+ 1508  ls
+ 1509  vim app_inject_lib.mm
+ 1510  ls
+ 1511  make
+ 1512  ld
+ 1513  pef
+ 1514  vf ..
+ 1515  ld
+ 1516  ls
+ 1517  clear
+ 1518  cd obj
+ 1519  ls
+ 1520  cd debug
+ 1521  ls
+ 1522  cd ..
+ 1523  ls
+ 1524  cd ..
+ 1525  ls
+ 1526  vim app_inject_lib.mm
+ 1527  vim Makefile
+ 1528  vim $THEOS/makefiles/common.mk
+ 1529  vim Makefile
+ 1530  vim $THEOS/makefiles/common.mk
+ 1531  cd ..
+ 1532  ls
+ 1533  clear
+ 1534  $THEOS/bin/nic.pl
+ 1535  cd inject_tweak
+ 1536  ls
+ 1537  clear
+ 1538  ls
+ 1539  vim Tweak.xm
+ 1540  ls
+ 1541  vim Makefile
+ 1542  ls
+ 1543  make package
+ 1544  ls
+ 1545  cd packages
+ 1546  ls
+ 1547  cd ..
+ 1548  ls
+ 1549  vim Makefile
+ 1550  make clean
+ 1551  ls
+ 1552  make package
+ 1553  ls
+ 1554  vim Tweak.xm
+ 1555  clear
+ 1556  $SDKVERSION
+ 1557  ls
+ 1558  vim inject_tweak.plist
+ 1559  vim control
+ 1560  vim Makefile
+ 1561  make package
+ 1562  ls
+ 1563  make package
+ 1564  ls
+ 1565  cd ..
+ 1566  ls
+ 1567  rm -rf inject_tweak
+ 1568  $THEOS/bin/nic.pl
+ 1569  cd fuck
+ 1570  ls
+ 1571  make package
+ 1572  ls
+ 1573  cd packages
+ 1574  ls
+ 1575  rm -rf com.yourcompany.fuck_0.0.1-1+debug_iphoneos-arm.deb
+ 1576  ls
+ 1577  cd ..
+ 1578  ls
+ 1579  vim Tweak.xm
+ 1580  make package
+ 1581  vim Tweak.xm
+ 1582  vim Makefile
+ 1583  clear
+ 1584  make package
+ 1585  vim Tweak.xm
+ 1586  make package
+ 1587  vim Tweak.xm
+ 1588  make package
+ 1589  vim Makefile
+ 1590  make package
+ 1591  vim Makefile
+ 1592  make clean
+ 1593  make package
+ 1594  vim Makefile
+ 1595  clear
+ 1596  make clean 
+ 1597  make package
+ 1598  ls
+ 1599  cd packages
+ 1600  ls
+ 1601  rm -rf *.*
+ 1602  ls
+ 1603  cd ..
+ 1604  ls
+ 1605  make package
+ 1606  cd ..
+ 1607  ls
+ 1608  cd fuck
+ 1609  ls
+ 1610  rm -rf obj
+ 1611  rm -rf packages
+ 1612  ls
+ 1613  make package
+ 1614  ls
+ 1615  cd packages
+ 1616  ls
+ 1617  cd ..
+ 1618  ls
+ 1619  cd fu
+ 1620  ls
+ 1621  cd ..
+ 1622  ls
+ 1623  rm -rf fuck
+ 1624  ls
+ 1625  git clone git@git.oschina.net:yearnwang/iphone-trojan.git
+ 1626  git add .
+ 1627  ls
+ 1628  cd iphone-trojan
+ 1629  ls
+ 1630  git add .
+ 1631  git commit -m "remove undef file"
+ 1632  ls
+ 1633  git push
+ 1634  gti pull
+ 1635  git pull
+ 1636  ls
+ 1637  ls -la
+ 1638  rm -rf .idea
+ 1639  git add .
+ 1640  git commit -m 'test'
+ 1641  git push
+ 1642  git pull
+ 1643  cd ..
+ 1644  $THEOS/bin/nic.pl
+ 1645  cd iphone-trojan
+ 1646  ls
+ 1647  vim Makefile
+ 1648  vim Tweak.xm
+ 1649  ls
+ 1650  vim Makefile
+ 1651  ls
+ 1652  clear
+ 1653  make package
+ 1654  vim README.md
+ 1655  ls
+ 1656  cd packages
+ 1657  ls
+ 1658  rm -rf *.*
+ 1659  ls
+ 1660  cd ..
+ 1661  ls
+ 1662  cd obj
+ 1663  ls
+ 1664  cd debug
+ 1665  cd ..
+ 1666  ls
+ 1667  cd ..
+ 1668  ls
+ 1669  vim README.md
+ 1670  ls
+ 1671  vim .gitignore
+ 1672  ls
+ 1673  vim .gitignore
+ 1674  git add .
+ 1675  git commit -m "add some code"
+ 1676  ls
+ 1677  vim .gitignore
+ 1678  git add .
+ 1679  git commit -m "modify git file"
+ 1680  git push
+ 1681  git pull
+ 1682  ls
+ 1683  ls -la
+ 1684  rm -rf .theos
+ 1685  vim .gitignore
+ 1686  ls
+ 1687  git add .
+ 1688  git commit -m 'fuck'
+ 1689  git push
+ 1690  git pull
+ 1691  ls
+ 1692  ls -la
+ 1693  vim README.md
+ 1694  ls
+ 1695  git add .
+ 1696  git commit -m ';
+ 1697  git commit -m ''
+ 1698  git commit -m 'a'
+ 1699  git push
+ 1700  git pull
+ 1701  cd ..
+ 1702  ls
+ 1703  git clone git@git.oschina.net:yearnwang/iphone-trojan.git
+ 1704  ls
+ 1705  cd iphone-trojan
+ 1706  ls
+ 1707  ls 0la
+ 1708  ls -la
+ 1709  make package
+ 1710  ls
+ 1711  ls -la
+ 1712  git add .
+ 1713  git commit -m 'try file'
+ 1714  git push
+ 1715  git pull
+ 1716  cd .theos/
+ 1717  ls
+ 1718  cd ..
+ 1719  ls
+ 1720  ls -la
+ 1721  vim .gitignore
+ 1722  git add .
+ 1723  git commit -m 'edit'
+ 1724  git push
+ 1725  git pull
+ 1726  ls
+ 1727  ls -la
+ 1728  rm -rf .theos
+ 1729  ls
+ 1730  git add .
+ 1731  git commit -m 'aa'
+ 1732  git push
+ 1733  git pull
+ 1734  ls
+ 1735  make package
+ 1736  ls
+ 1737  ls -la
+ 1738  git add .
+ 1739  git commit -m 'aaa'
+ 1740  git push
+ 1741  git pull
+ 1742  vim .gitignore
+ 1743  git add .
+ 1744  git commit -m 'bb'
+ 1745  git pull
+ 1746  git push
+ 1747  ls -la
+ 1748  rm -rf .theos
+ 1749  git add .
+ 1750  git commit -m 'b'
+ 1751  git push
+ 1752  git pull
+ 1753  ls
+ 1754  make package
+ 1755  git add .
+ 1756  git commit -m 'cc'
+ 1757  git push
+ 1758  git pull
+ 1759  vim .gitignore
+ 1760  clear
+ 1761  ls
+ 1762  git add .
+ 1763  git commit -m 'ccc'
+ 1764  git push
+ 1765  git pull
+ 1766  sl
+ 1767  ls
+ 1768  git push
+ 1769  cd ..
+ 1770  ls
+ 1771  rm -rf iphone-trojan
+ 1772  ls
+ 1773  git clone git@git.oschina.net:yearnwang/iphone-trojan.git
+ 1774  cd iphone-trojan
+ 1775  ls
+ 1776  ls -la
+ 1777  vim .gitignore
+ 1778  rm -rf .theos
+ 1779  ls
+ 1780  git add .
+ 1781  git commit -m 'd'
+ 1782  git push
+ 1783  git pull
+ 1784  ls
+ 1785  cd ..
+ 1786  ls
+ 1787  cd iphone-trojan
+ 1788  ls
+ 1789  make package
+ 1790  git add .
+ 1791  git commit -m 'e'
+ 1792  git push
+ 1793  vim .gitignore
+ 1794  ls
+ 1795  rm -rf .theos
+ 1796  ls
+ 1797  git add .
+ 1798  git commit -m 'e'
+ 1799  git push
+ 1800  ls
+ 1801  git push
+ 1802  git pull
+ 1803  ls
+ 1804  ls -la
+ 1805  make package
+ 1806  git add .
+ 1807  git commit -m 'f'
+ 1808  git push
+ 1809  git pull
+ 1810  cd ..
+ 1811  rm -rf iterm
+ 1812  cd ~/Desktop
+ 1813  ls
+ 1814  rm -rf iphone-trojan
+ 1815  ls
+ 1816  git clone git@git.oschina.net:yearnwang/iphone-trojan.git
+ 1817  cd iphone-trojan
+ 1818  ls
+ 1819  make package
+ 1820  git add .
+ 1821  git commit -m 'test'
+ 1822  ls
+ 1823  git add .
+ 1824  git commit -m 'ccc'
+ 1825  git push
+ 1826  git pull
+ 1827  ls
+ 1828  cd ..
+ 1829  ls
+ 1830  cd ~/Desktop
+ 1831  ls
+ 1832  $THEO
+ 1833  ls
+ 1834  cd iphone-trojan
+ 1835  ls
+ 1836  make package
+ 1837  ls
+ 1838  cd ..
+ 1839  ls
+ 1840  exprot THEOS=~/Desktop/theos/
+ 1841  $THEOS = ~/Desktop/theos/
+ 1842  exprot
+ 1843  export
+ 1844  $THEOS
+ 1845  export THEOS = ~/Desktop/theos
+ 1846  export THEOS=~/Desktop/theos
+ 1847  cd iphone-trojan
+ 1848  ls
+ 1849  clear
+ 1850  make package
+ 1851  ls
+ 1852  cd packages
+ 1853  ls
+ 1854  rm -rf *.*
+ 1855  ls
+ 1856  cd ..
+ 1857  ls
+ 1858  make package
+ 1859  cd packages
+ 1860  ls
+ 1861  rm -rf *.*
+ 1862  ls
+ 1863  cd ..
+ 1864  ls
+ 1865  cd ..
+ 1866  ls
+ 1867  cd iphone-trojan
+ 1868  ls
+ 1869  vim README.md
+ 1870  git add .
+ 1871  git commit -m 'edit readme.txt'
+ 1872  git push
+ 1873  git pull
+ 1874  cd ..
+ 1875  ls
+ 1876  cd iphone-trojan
+ 1877  ls
+ 1878  vim M
+ 1879  vim Makefile
+ 1880  clear
+ 1881  make package
+ 1882  ls
+ 1883  vim Makefile
+ 1884  make clane
+ 1885  make clean
+ 1886  clear
+ 1887  make package
+ 1888  vim Makefile
+ 1889  make package
+ 1890  vim Makefile
+ 1891  make package
+ 1892  vim Tweak.xm
+ 1893  clear
+ 1894  make package
+ 1895  vim Tweak.xm
+ 1896  make package
+ 1897  vim MyURLConnection.h
+ 1898  make package
+ 1899  vim Tweak.xm
+ 1900  make package
+ 1901  vim Tweak.xm
+ 1902  make package
+ 1903  vim Tweak.xm
+ 1904  make package
+ 1905  vim Tweak.xm
+ 1906  make package
+ 1907  vim Tweak.xm
+ 1908  make package
+ 1909  vim Tweak.xm
+ 1910  make clean
+ 1911  make package
+ 1912  vim Tweak.xm
+ 1913  make package
+ 1914  vim MyURLConnection.mm
+ 1915  make package
+ 1916  vim MyURLConnection.mm
+ 1917  makge package
+ 1918  make package
+ 1919  vim Tweak.xm
+ 1920  make package
+ 1921  vim Tweak.xm
+ 1922  make package
+ 1923  vim Tweak.xm
+ 1924  make package
+ 1925  la
+ 1926  ls
+ 1927  vim MyFakerun.h
+ 1928  vim MyFakerun.mm
+ 1929  $THEO
+ 1930  export THEOS=/opt/theos/
+ 1931  export THEOS=~Desktop/theos/
+ 1932  export THEOS=~/Desktop/theos/
+ 1933  cd ~/Desktop
+ 1934  ls
+ 1935  cd iphone-trojan
+ 1936  ls
+ 1937  clear
+ 1938  make package
+ 1939  vim Makefile
+ 1940  make package
+ 1941  ls
+ 1942  vim Makefile
+ 1943  make package
+ 1944  clear
+ 1945  make clean
+ 1946  make package
+ 1947  ls
+ 1948  rm -rf packages
+ 1949  ls
+ 1950  make clean
+ 1951  vim Tweak.xm
+ 1952  make clean
+ 1953  make package
+ 1954  make clean
+ 1955  make pacakge
+ 1956  make pacage
+ 1957  make package
+ 1958  git add .
+ 1959  git commit -m "重新整合项目"
+ 1960  git push
+ 1961  git pull
+ 1962  ls
+ 1963  rm -rf packages
+ 1964  ls
+ 1965  make package
+ 1966  make clean
+ 1967  make package
+ 1968  git add .
+ 1969  git commit -m "加入GET POST HTTPS请求"
+ 1970  git push
+ 1971  git pull
+ 1972  cd /var/folders/hw
+ 1973  ls
+ 1974  cd gs4zk37j1rgb3dzbqp5nrhk80000gn
+ 1975  ls
+ 1976  cd T
+ 1977  ls
+ 1978  git add .
+ 1979  git commit -m "断点下来"
+ 1980  git push
+ 1981  git pull
+ 1982  git push
+ 1983  ls
+ 1984  clear
+ 1985  ls
+ 1986  clear
+ 1987  ls
+ 1988  make package
+ 1989  make clean
+ 1990  make package
+ 1991  git add .
+ 1992  git commit -m 'test'
+ 1993  git push
+ 1994  git pull
+ 1995  ls
+ 1996  clear
+ 1997  ls
+ 1998  clear
+ 1999  make package
+ 2000  sudo xcode-select --swich /Applications/Xcode.app/Contents/Developer
+ 2001  sudo xcodebuild -lincense
+ 2002  sudo xcodebuild -lincense'
+ 2003  sudo xcodebuild -lincense
+ 2004  ifconfig
+ 2005  ping 192.168.1.35
+ 2006  telnet 192.168.1.35 24800
+ 2007  telnet 192.168.1.35:24800
+ 2008  telnet 192.168.1.35 24800
+ 2009  ping 192.168.1.35
+ 2010  ipconfig
+ 2011  ifconfig
+ 2012  cd ~/Desktop
+ 2013  ls
+ 2014  cd iphone-trojan
+ 2015  ls
+ 2016  git add .
+ 2017  git commit -m "add new iphone-MM project"
+ 2018  git pull
+ 2019  git push
+ 2020  ls
+ 2021  ls -l
+ 2022  cd.
+ 2023  cd ..
+ 2024  ls
+ 2025  cd iphone-trojan
+ 2026  ls
+ 2027  cd th
+ 2028  cd test111
+ 2029  ls
+ 2030  cd ..
+ 2031  ls
+ 2032  rm -rf test111
+ 2033  ls
+ 2034  git add .
+ 2035  git commit -m "delete more file"
+ 2036  ls
+ 2037  cd packages
+ 2038  ls
+ 2039  cd ..
+ 2040  ls
+ 2041  cd project
+ 2042  ls
+ 2043  cd ..
+ 2044  ls
+ 2045  cd obj
+ 2046  ls
+ 2047  cd ..
+ 2048  ls
+ 2049  cd obj
+ 2050  ls
+ 2051  mv iOSMM ../iOSMM
+ 2052  ls
+ 2053  cd ..
+ 2054  ls
+ 2055  git add .
+ 2056  git commit -m "整理文件"
+ 2057  git push
+ 2058  git pull
+ 2059  ls
+ 2060  clear
+ 2061  ,s
+ 2062  ls
+ 2063  git pull
+ 2064  git push
+ 2065  ifconfig
+ 2066  git add .
+ 2067  git commit -m "加入框架"
+ 2068  git push
+ 2069  git pull
+ 2070  ifconfig
+ 2071  clear
+ 2072  ping 192.168.137.176
+ 2073  ifconfig
+ 2074  clear
+ 2075  ssh 192.168.100.102
+ 2076  ssh 192.168.10.102
+ 2077  ssh root@192.168.10.102
+ 2078  ls
+ 2079  clear
+ 2080  ls
+ 2081  python
+ 2082  ping 192.168.0.128
+ 2083  ping 192.168.0.185
+ 2084  cd /Applications/ShareMouse.app 
+ 2085  ls
+ 2086  cd ~/Desktop
+ 2087  ls
+ 2088  cd iphone-trojan
+ 2089  ls
+ 2090  git add .
+ 2091  git commit -m 'write file'
+ 2092  git push
+ 2093  git pull
+ 2094  gdb
+ 2095  brew install gdb
+ 2096  gb
+ 2097  gdb
+ 2098  clear
+ 2099  pwd
+ 2100  gdb -q
+ 2101  ps aux | sharemouse*.*
+ 2102  ps aux
+ 2103  ps aux | grep share*
+ 2104  ps aux 
+ 2105  gdb sharemouse
+ 2106  ps aux | grep mouse*.*
+ 2107  ps aux | grep *
+ 2108  ps aux | less
+ 2109  gdb 24625
+ 2110  gdb sharemouse 24625
+ 2111  ps ax
+ 2112  ps ax | grep sharemouse
+ 2113  ps ax | grep share*
+ 2114  ps ax | grep sharemouse
+ 2115  ps aux
+ 2116  ps aux|less
+ 2117  ps ax|grep ShareMouse
+ 2118  gdb ShareMouse 24625
+ 2119  gdb /Applications/ShareMouse.app/Contents/MacOS/ShareMouse
+ 2120  gdb /Applications/ShareMouse.app
+ 2121  gdb /Applications/ShareMouse.app/Contents/MacOS/ShareMouse
+ 2122  cd /
+ 2123  ls
+ 2124  codesign -s gdb_codesign gdb
+ 2125  codesign
+ 2126  codesign -s gdb_codesign gdb
+ 2127  pwd
+ 2128  ls
+ 2129  cd ~
+ 2130  ls
+ 2131  codesign -s gdb_codesign gdb
+ 2132  sudo codesign -s gdb_codesign gdb
+ 2133  which gdb
+ 2134  codesign -s gdb_codesign /usr/local/bin/gdb
+ 2135  ls
+ 2136  gdb /Applications/ShareMouse.app 
+ 2137  gdb /Applications/ShareMouse.app/Contents/MacOS/ShareMouse
+ 2138  gdb /Applications/ShareMouse.app/Contents/MacOS/ShareMouse -q
+ 2139  sudo gdb /Applications/ShareMouse.app/Contents/MacOS/ShareMouse
+ 2140  ls -la
+ 2141  cd ~
+ 2142  ls
+ 2143  sudo gdb /Applications/ShareMouse.app/Contents/MacOS/ShareMouse 
+ 2144  csrutil status
+ 2145  csrutil disable
+ 2146  sudo csrutil disable
+ 2147  sudo gdb /Applications/ShareMouse.app/Contents/MacOS/ShareMouse 
+ 2148  brew update
+ 2149  cd ~
+ 2150  find / -name .gdbinit
+ 2151  sudo find / -name .gdbinit
+ 2152  vim .gdbinit
+ 2153  sudo gdb /Applications/ShareMouse.app/Contents/MacOS/ShareMouse 
+ 2154  gdb /Applications/ShareMouse.app/Contents/MacOS/ShareMouse 
+ 2155  sudo gdb /Applications/ShareMouse.app/Contents/MacOS/ShareMouse 
+ 2156  sudo gdb /Applications/ShareMouse.app
+ 2157  sudo gdb /Applications/ShareMouse.app/Contents/MacOS/ShareMouse 
+ 2158  ps aux | grep ShareMouse
+ 2159  gdb 34200
+ 2160  sudo gdb
+ 2161  sudo codesign -s gdb-cert gdb
+ 2162  codesign -v gdb
+ 2163  which gdb
+ 2164  codesign -v /usr/local/bin/gdb
+ 2165  sudo -fs gdb_codesign /usr/local/bin/gdb
+ 2166  gdb
+ 2167  codesign -s gdb_codesign /usr/local/bin/gdb
+ 2168  q
+ 2169  gdb /Applications/ShareMouse.app/Contents/MacOS/ShareMouse 
+ 2170  clear
+ 2171  ps aux | grep ShareMouse
+ 2172  gdb /Applications/ShareMouse.app -q
+ 2173  gdb /Applications/ShareMouse.app
+ 2174  ps aux | grep ShareMouse
+ 2175  gdb -q
+ 2176  ps aux | grep ShareMouse
+ 2177  gdb -q
+ 2178  ps aux | grep ShareMouse
+ 2179  gdb -q
+ 2180  ping 192.168.0.185
+ 2181  ping https://192.168.0.185
+ 2182  ping http://192.168.0.185
+ 2183  pwd
+ 2184  cd /dev
+ 2185  cd ~/Desktop
+ 2186  ls
+ 2187  cd iphone-trojan
+ 2188  ls
+ 2189  git add .
+ 2190  git commit -m "net"
+ 2191  git push
+ 2192  git pull
+ 2193  pwd
+ 2194  ls
+ 2195  git add .
+ 2196  git commit -m '回传文件接口调试通过'
+ 2197  git push
+ 2198  git pull
+ 2199  pwd
+ 2200  git add .
+ 2201  git commit -m 'add parse'
+ 2202  git push
+ 2203  git pull
+ 2204  cal
+ 2205  clac
+ 2206  calc 
+ 2207  ping 192.168.1.185
+ 2208  pwd
+ 2209  git add .
+ 2210  git commit -m 'encode key'
+ 2211  git push
+ 2212  git pull
+ 2213  git add .
+ 2214  git commit -m '修改task任务流程'
+ 2215  git push
+ 2216  git pull
+ 2217  git add .
+ 2218  git commit -m "加入CommComd命令"
+ 2219  git push
+ 2220  git pull
+ 2221  /Applications/Music\ Converter\ Pro.app/Contents/MacOS/Music\ Converter\ Pro ; exit;
+ 2222  history 
+ 2223  history  > 111.txt
+ 2224  cat 111.txt | grep youku
+ 2225  vim 111.txt
+ 2226  ls
+ 2227  rm -rf 111.txt
+ 2228  you-get
+ 2229  cd ~/Desktop
+ 2230  ls
+ 2231  you-get
+ 2232  you-get http://v.youku.com/v_show/id_XMTUzMTc4MzMwMA\=\=.html\?spm\=a2h0j.8191423.playlist_content.5\!7\~5\~5\~A\&\&f\=27033664\&from\=y1.2-3.4.7
+ 2233  ls
+ 2234  you-get
+ 2235  you-get -V
+ 2236  you-get -i http://v.youku.com/v_show/id_XMTUzMTc4MzMwMA\=\=.html\?spm\=a2h0j.8191423.playlist_content.5\!7\~5\~5\~A\&\&f\=27033664\&from\=y1.2-3.4.7
+ 2237  you-get -i http://v.youku.com/v_show/id_XMTUyMDU3NzY5Mg\=\=.html\?spm\=a2hzp.8244740.0.0\&f\=27033664
+ 2238  you-get
+ 2239  you-get -i http://v.youku.com
+ 2240  brew pip
+ 2241  pip
+ 2242  brew install you-get
+ 2243  brew upgrade you-get
+ 2244  you-get -i http://v.youku.com/v_show/id_XMTUzMTc4MzMwMA\=\=.html\?spm\=a2h0j.8191423.playlist_content.5\!7\~5\~5\~A\&\&f\=27033664\&from\=y1.2-3.4.7
+ 2245  you-get
+ 2246  you-get -i http://v.youku.com/v_show/id_XMTUzMTc4MzMwMA\=\=.html\?spm\=a2h0j.8191423.playlist_content.5\!7\~5\~5\~A\&\&f\=27033664\&from\=y1.2-3.4.7
+ 2247  you-get http://v.youku.com/v_show/id_XMTUzMTc4MzMwMA\=\=.html\?spm\=a2h0j.8191423.playlist_content.5\!7\~5\~5\~A\&\&f\=27033664\&from\=y1.2-3.4.7
+ 2248  you-get --info http://v.youku.com/v_show/id_XMTUzMTc4MzMwMA\=\=.html\?spm\=a2h0j.8191423.playlist_content.5\!7\~5\~5\~A\&\&f\=27033664\&from\=y1.2-3.4.7
+ 2249  cd ~/Desktop
+ 2250  ls
+ 2251  sudo you-get -i http://v.youku.com/v_show/id_XMTU0NzMwNzYwNA\=\=.html\?spm\=a2hzp.8253869.0.0
+ 2252  python
+ 2253  ckear
+ 2254  clear
+ 2255  cd ~/Desktop
+ 2256  ls
+ 2257  cd compelete
+ 2258  ls
+ 2259  python
+ 2260  ls
+ 2261  python 7200patch.py
+ 2262  clear
+ 2263  python 7200patch.py
+ 2264  ls
+ 2265  cd Dynamips_IOS
+ 2266  ls
+ 2267  unzip c7200-advipservicesk9-mz.151-4.M2.bin
+ 2268  ls
+ 2269  cd ..
+ 2270  ls
+ 2271  py 7200patch.py
+ 2272  python 7200patch.py
+ 2273  python
+ 2274  python 7200patch.py
+ 2275  python
+ 2276  python 7200patch.py
+ 2277  python
+ 2278  ls
+ 2279  python 7200patch.py
+ 2280  python
+ 2281  python 7200patch.py
+ 2282  ls
+ 2283  python 7200patch.py
+ 2284  ls
+ 2285  ls test
+ 2286  python 7200patch.py
+ 2287  ls
+ 2288  cd Dynamips_IOS
+ 2289  ls
+ 2290  ls *.bin
+ 2291  ls
+ 2292  cp C7200-AD.BIN ../test.bin
+ 2293  cd ..
+ 2294  ls
+ 2295  ls test.bin
+ 2296  python 7200patch.py
+ 2297  ls
+ 2298  unzip c7200-advipservicesk9-mz.151-4.M2.bin
+ 2299  ls
+ 2300  rm -rf C7200-AD.BIN
+ 2301  ls
+ 2302  clear
+ 2303  ls
+ 2304  python 7200patch.py
+ 2305  s
+ 2306  ls
+ 2307  rm -rf C7200-AD.BIN
+ 2308  ls
+ 2309  python
+ 2310  ls
+ 2311  python 7200patch.py
+ 2312  ls
+ 2313  cd 1507259559
+ 2314  ls
+ 2315  ls -la
+ 2316  cd ..
+ 2317  ls
+ 2318  pwd
+ 2319  python 7200patch.py
+ 2320  ls
+ 2321  rm -rf 1507259559
+ 2322  rm -rf 1507259650
+ 2323  ls
+ 2324  python 7200patch.py
+ 2325  ls
+ 2326  rm -rf 1507268385
+ 2327  ls
+ 2328  python 7200patch.py
+ 2329  ls
+ 2330  cd 1507268457
+ 2331  ls
+ 2332  ls -la
+ 2333  cd ..
+ 2334  ls
+ 2335  python 7200patch.py
+ 2336  ls
+ 2337  rm -rf 1507268
+ 2338  rm -rf 1507268*
+ 2339  ls
+ 2340  cd build
+ 2341  ls
+ 2342  vim build.cpp
+ 2343  vim ~/.vimrc
+ 2344  vim build.cpp
+ 2345  python
+ 2346  vim build.cpp
+ 2347  pip
+ 2348  pip install pyelftools
+ 2349  pelftools
+ 2350  pyelftools
+ 2351  ls
+ 2352  cd ~/Desktop
+ 2353  ls
+ 2354  cd compelete
+ 2355  ls
+ 2356  cd Dynamips_IOS
+ 2357  ls
+ 2358  python
+ 2359  pip install elffile
+ 2360  python
+ 2361  pip remove elffile
+ 2362  pip uninstall elffile
+ 2363  ls
+ 2364  cd ..
+ 2365  ls
+ 2366  pip install pyelftools
+ 2367  python setup.py install
+ 2368  pyelftools
+ 2369  pip where pyelftools
+ 2370  pip unstall pyelftools
+ 2371  pip uninstall pyelftools
+ 2372  python
+ 2373  pip install pyelftools
+ 2374  python setup.py install
+ 2375  readelf
+ 2376  python
+ 2377  pwd
+ 2378  ls
+ 2379  cd ..
+ 2380  ls
+ 2381  cd compelete
+ 2382  ls
+ 2383  clear
+ 2384  ls
+ 2385  cd Dynamips_IOS
+ 2386  ls
+ 2387  python
+ 2388  ls
+ 2389  python
+ 2390  ls
+ 2391  cd ..
+ 2392  ls
+ 2393  pwd
+ 2394  python 7200patch.py
+ 2395  ls
+ 2396  python -m pdb 7200patch.py
+ 2397  sl
+ 2398  ls
+ 2399  python 7200patch.py
+ 2400  clear
+ 2401  python 7200patch.py
+ 2402  clear
+ 2403  python 7200patch.py
+ 2404  clear
+ 2405  python 7200patch.py
+ 2406  clear
+ 2407  python 7200patch.py
+ 2408  clear
+ 2409  python 7200patch.py
+ 2410  hex(27794073301756744)
+ 2411  python
+ 2412  ls
+ 2413  python 7200patch.py
+ 2414  clear
+ 2415  python 7200patch.py
+ 2416  python -m pdb 7200patch.py
+ 2417  clear
+ 2418  python -m pdb 7200patch.py
+ 2419  ls
+ 2420  python -m pdb 7200patch.py
+ 2421  ls
+ 2422  python 7200patch.py
+ 2423  hex(92617332)
+ 2424  python
+ 2425  clear
+ 2426  python 7200patch.py
+ 2427  clear
+ 2428  python 7200patch.py
+ 2429  ls
+ 2430  ls -la
+ 2431  cd 1507387802
+ 2432  ls
+ 2433  ls -la
+ 2434  cd ..
+ 2435  ls
+ 2436  python 7200patch.py
+ 2437  kkkkkkk
+ 2438  python 7200patch.py
+ 2439  clear
+ 2440  python 7200patch.py
+ 2441  clear
+ 2442  python 7200patch.py
+ 2443  clear
+ 2444  python 7200patch.py
+ 2445  ls
+ 2446  python 7200patch.py
+ 2447  clear
+ 2448  python 7200patch.py
+ 2449  clear
+ 2450  python 7200patch.py
+ 2451  gcc
+ 2452  ks
+ 2453  ls
+ 2454  vim checksum.c
+ 2455  ls
+ 2456  clear
+ 2457  ls
+ 2458  gcc -o lschecksum.c
+ 2459  gcc -o checksum.c
+ 2460  gcc -c checksum.c
+ 2461  vim checksum.c
+ 2462  gcc -c checksum.c
+ 2463  vim checksum.c
+ 2464  clear
+ 2465  gcc -c checksum.c
+ 2466  vim checksum.c
+ 2467  gcc -c checksum.c
+ 2468  clear
+ 2469  gcc -c checksum.c
+ 2470  vim checksum.c
+ 2471  gcc -c checksum.c
+ 2472  claer
+ 2473  clear
+ 2474  gcc -c checksum.c
+ 2475  vim checksum.c
+ 2476  gcc -c checksum.c
+ 2477  mv checksum.c checksum.cpp
+ 2478  vim checksum.cpp
+ 2479  clear
+ 2480  gcc -c checksum.cpp
+ 2481  ls
+ 2482  check
+ 2483  rm -rf checksum.o
+ 2484  ls
+ 2485  gcc checksum.cpp
+ 2486  gcc
+ 2487  g++ checksum.cpp
+ 2488  ls
+ 2489  rm -rf a.out
+ 2490  ls
+ 2491  ls -la
+ 2492  check_sum
+ 2493  checksum
+ 2494  ls
+ 2495  gcc checksum.cpp
+ 2496  g++ checksum.cpp
+ 2497  ls
+ 2498  ./a.out c7200-advipservicesk9-mz.151-4.M2.bin
+ 2499  vim checksum.cpp
+ 2500  ls
+ 2501  g checksum.cpp 
+ 2502  g++ checksum.cpp
+ 2503  ls
+ 2504  ./a.out c7200-advipservicesk9-mz.151-4.M2.bin
+ 2505  vim checksum.cpp
+ 2506  g++ checksum.cpp
+ 2507  ./a.out c7200-advipservicesk9-mz.151-4.M2.bin
+ 2508  vim checksum.cpp
+ 2509  g++ checksum.cpp
+ 2510  ./a.out c7200-advipservicesk9-mz.151-4.M2.bin
+ 2511  ls
+ 2512  rm -rf a.out
+ 2513  ls
+ 2514  g++ checksum.cpp checksum
+ 2515  g++ checksum.cpp -o checksum
+ 2516  ls
+ 2517  ./checksum
+ 2518  ./checksum c7200-advipservicesk9-mz.151-4.M2.bin
+ 2519  debug
+ 2520  gdb
+ 2521  ls
+ 2522  gdb checksum c7200-advipservicesk9-mz.151-4.M2.bin
+ 2523  ls
+ 2524  clear
+ 2525  ls
+ 2526  gdb checksum c7200-advipservicesk9-mz.151-4.M2.bin
+ 2527  gdb main
+ 2528  g++ checksum.cpp -o checksum -g
+ 2529  gdb checksum c7200-advipservicesk9-mz.151-4.M2.bin
+ 2530  cd ~/Desktop
+ 2531  ls
+ 2532  cd compelete
+ 2533  ls
+ 2534  gdb epoll checksum c7200-advipservicesk9-mz.151-4.M2.bin
+ 2535  ls
+ 2536  python 7200patch.py
+ 2537  ./checksum c7200-advipservicesk9-mz.151-4.M2.bin
+ 2538  ls
+ 2539  gdb checksum c7200-advipservicesk9-mz.151-4.M2.bin
+ 2540  ls
+ 2541  clear
+ 2542  gdb checksum c7200-advipservicesk9-mz.151-4.M2.bin
+ 2543  ls
+ 2544  gdb checksum c7200-advipservicesk9-mz.151-4.M2.bin
+ 2545  ls
+ 2546  geb checksum
+ 2547  gdb checksum
+ 2548  ls
+ 2549  vim checksum
+ 2550  vim checksum.cpp
+ 2551  g++ checksum.cpp -o checksum
+ 2552  ./checksum c7200-advipservicesk9-mz.151-4.M2.bin
+ 2553  vim checksum.cpp
+ 2554  ls
+ 2555  g++ checksum.cpp -o checksum
+ 2556  ./checksum c7200-advipservicesk9-mz.151-4.M2.bin >111.txt
+ 2557  vim 111.txt
+ 2558  ls
+ 2559  python 7200patch.py
+ 2560  python
+ 2561  cd ~/Desktop
+ 2562  ls
+ 2563  cd compelete
+ 2564  ls
+ 2565  clear
+ 2566  ls
+ 2567  python 7200patch.py
+ 2568  ./checksum c7200-advipservicesk9-mz.151-4.M2.bin
+ 2569  vim checksum.cpp
+ 2570  g++ checksum.cpp -o checksum
+ 2571  ./checksum c7200-advipservicesk9-mz.151-4.M2.bin
+ 2572  python 7200patch.py
+ 2573  ./checksum c7200-advipservicesk9-mz.151-4.M2.bin
+ 2574  python 7200patch.py
+ 2575  cd ~/Desktop
+ 2576  ls
+ 2577  cd compelete
+ 2578  ls
+ 2579  python new_7200patch.py
+ 2580  ls
+ 2581  readelf
+ 2582  hexdump
+ 2583  ls
+ 2584  hexdump -C 111.txt
+ 2585  pwd
+ 2586  python new_7200patch.py
+ 2587  ls
+ 2588  readelf
+ 2589  brew install readelf
+ 2590  elf
+ 2591  brew install binutils
+ 2592  s
+ 2593  ls
+ 2594  cd 1507973814
+ 2595  ls
+ 2596  greadelf
+ 2597  greadelf C7200-AD.BIN
+ 2598  greadelf -a C7200-AD.BIN
+ 2599  ls
+ 2600  cd ..
+ 2601  ls
+ 2602  cd ..
+ 2603  ls
+ 2604  cd compelete
+ 2605  ls
+ 2606  cd Dynamips_IOS
+ 2607  ls
+ 2608  pwd
+ 2609  cd ..
+ 2610  ls
+ 2611  cd 1507973814
+ 2612  ls
+ 2613  ls -la
+ 2614  pwd
+ 2615  cd ..
+ 2616  ls
+ 2617  python new_7200patch.py
+ 2618  clear
+ 2619  python new_7200patch.py
+ 2620  ping 192.168.137.135
+ 2621  ping 192.168.10.102
+ 2622  ssh 192.168.10.102
+ 2623  ssh root@192.168.10.102
+ 2624  ping 192.168.10.100
+ 2625  ifconfig
+ 2626  ping 192.168.10.100
+ 2627  keep-server with node.js
+ 2628  ls
+ 2629  cd /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk
+ 2630  ls
+ 2631  clear
+ 2632  ls
+ 2633  sudo vim SDKSettings.plist
+ 2634  ls -la
+ 2635  chmod 777 SDKSettings.plist
+ 2636  sudo chmod 777 SDKSettings.plist
+ 2637  ls -la
+ 2638  cd ..
+ 2639  ls
+ 2640  ls -la
+ 2641  sudo chmod 777 iPhoneOS.sdk
+ 2642  ls
+ 2643  pwd
+ 2644  clear
+ 2645  export THEOS=/opt/theos
+ 2646  sudo git clone git://github.com/DHowett/theos.git $THEOS
+ 2647  cd $THEOS
+ 2648  git clone https://github.com/DHowett/theos.git $THEOS
+ 2649  sudo git clone https://github.com/DHowett/theos.git $THEOS
+ 2650  sudo /opt/theos/bin/nic.pl
+ 2651  pwd
+ 2652  ls
+ 2653  rm -rf testweak
+ 2654  sudo rm -rf testweak
+ 2655  cd ~/Desktop
+ 2656  ls
+ 2657  /opt/theos/bin/nic.pl
+ 2658  cd testweak
+ 2659  ls
+ 2660  ps
+ 2661  ls
+ 2662  make
+ 2663  ls
+ 2664  cd ..
+ 2665  ls
+ 2666  rm -rf testweak
+ 2667  sudo /opt/theos/bin/nic.pl
+ 2668  cd testweak
+ 2669  ls
+ 2670  make
+ 2671  sudo make
+ 2672  clear
+ 2673  sudo make
+ 2674  ln -sf $THEOS
+ 2675  sudo ln -sf $THEOS
+ 2676  sudo make
+ 2677  ls
+ 2678  make
+ 2679  cd ..
+ 2680  ls
+ 2681  cd iphone-trojan
+ 2682  ls
+ 2683  cd ..
+ 2684  ls
+ 2685  cd testweak
+ 2686  ls
+ 2687  sudo make
+ 2688  ls
+ 2689  cd theos
+ 2690  ls
+ 2691  sudo make
+ 2692  ls
+ 2693  cd ..
+ 2694  ls
+ 2695  cat Makefile
+ 2696  cea
+ 2697  r
+ 2698  cea
+ 2699  clear
+ 2700  ls
+ 2701  make
+ 2702  sudo make
+ 2703  cd ..
+ 2704  ls
+ 2705  rm -rf testweak
+ 2706  ls
+ 2707  sudo rm -rf testweak
+ 2708  ls
+ 2709  sudo /opt/theos/bin/nic.pl
+ 2710  cd testweak
+ 2711  ls
+ 2712  sudo make
+ 2713  s
+ 2714  ls
+ 2715  sudo make
+ 2716  ls
+ 2717  cd ..
+ 2718  ls
+ 2719  rm -rf testweak
+ 2720  sudo rm -rf testweak
+ 2721  ls
+ 2722  /opt/theos/bin/nic.pl
+ 2723  cd testweak
+ 2724  ls
+ 2725  make
+ 2726  cd /opt/theos
+ 2727  ls
+ 2728  sudo git submodule update --init --recursive 
+ 2729  clear
+ 2730  cd ..
+ 2731  ls
+ 2732  cd ..
+ 2733  ls
+ 2734  cd /opt
+ 2735  ls
+ 2736  rm -rf theos
+ 2737  sudo rm -rf theos
+ 2738  ls
+ 2739  cd ~/Desktop
+ 2740  ls
+ 2741  rm -rf testweak
+ 2742  ls
+ 2743  sudo brew install ldid
+ 2744  cd /opt
+ 2745  ls
+ 2746  git clone --recursive https://github.com/theos/theos.git
+ 2747  sudo git clone --recursive https://github.com/theos/theos.git
+ 2748  ssh 192.168.10.101
+ 2749  ssh root@192.168.10.101
+ 2750  ip a
+ 2751  ifconfig
+ 2752  ssh root@192.168.10.101
+ 2753  ls
+ 2754  rm -rf theos
+ 2755  sudo rm -rf theos
+ 2756  ls
+ 2757  sudo git clone https://github.com/theos/theos.git
+ 2758  cd ~/Desktop
+ 2759  ls
+ 2760  /opt/theos/bin/nic.pl
+ 2761  cd testweak
+ 2762  ls
+ 2763  make
+ 2764  cd /opt
+ 2765  cd theos
+ 2766  ls
+ 2767  git submodule update --init --recursive
+ 2768  sudo git submodule update --init --recursive
+ 2769  ps aux
+ 2770  ps aux | db*
+ 2771  ps aux | mesa*
+ 2772  ps aux | grep mesa*
+ 2773  ps aux | grep mes
+ 2774  ps aux | grep sqli*
+ 2775  ps aux | grep *sqli*
+ 2776  ps -aux | grep *sqli*
+ 2777  clear
+ 2778  ps aux | more
+ 2779  ls
+ 2780  cd ..
+ 2781  ls
+ 2782  rm -rf theos
+ 2783  sudo rm -rf theos
+ 2784  ls
+ 2785  ps aux
+ 2786  ps aux | grep git*
+ 2787  ps aux | grep git
+ 2788  clear
+ 2789  ls
+ 2790  ps aux
+ 2791  clear
+ 2792  sudo git clone --recursive https://github.com/theos/theos.git
+ 2793  cd ~/Desktop
+ 2794  ls
+ 2795  cd /opt
+ 2796  ls
+ 2797  sudo chown (id−u):(id−u):(id -g) theos
+ 2798  sudo chown (id−u):(id−u):(id-g) theos
+ 2799  ls
+ 2800  sudo chuown 
+ 2801  sudo chown (id−u):(id-g) theos
+ 2802  sudo chown (id−u):(id -g) theos
+ 2803  cd ~/Desktop
+ 2804  ls
+ 2805  rm -rf testweak
+ 2806  ls
+ 2807  /opt/theos/bin/nic.pl
+ 2808  cd testweak
+ 2809  ls
+ 2810  make
+ 2811  ls
+ 2812  cd obj
+ 2813  ls
+ 2814  cd  debug
+ 2815  ls
+ 2816  cd ..
+ 2817  ls
+ 2818  cd ..
+ 2819  ls
+ 2820  ldid
+ 2821  ls
+ 2822  vim Makefile
+ 2823  ls
+ 2824  cat Makefile
+ 2825  vim Makefile
+ 2826  ls
+ 2827  vim /opt/theos/makefiles/common.mk
+ 2828  ls
+ 2829  vim Makefile
+ 2830  vim Tweak.xm
+ 2831  vim Makefile
+ 2832  ls
+ 2833  vim Tweak.xm
+ 2834  make package install
+ 2835  vim Tweak.xm
+ 2836  vim Makefile
+ 2837  make package install
+ 2838  vim Makefile
+ 2839  ls
+ 2840  make clean
+ 2841  make
+ 2842  make package
+ 2843  make package install
+ 2844  make
+ 2845  ls
+ 2846  make package
+ 2847  make install
+ 2848  brew install dpkg
+ 2849  ls
+ 2850  clear
+ 2851  make package message=yes
+ 2852  perl -i -pe 'y|\r||d' /Users/jimmy/code/iostest4/theos/bin/dpkg-deb\n
+ 2853  sudo perl -i -pe 'y|\r||d' /Users/jimmy/code/iostest4/theos/bin/dpkg-deb\n
+ 2854  sudo perl -i -pe 'y|\r||d' theos/bin/dpkg-deb\n
+ 2855  clear
+ 2856  make message=ues
+ 2857  make message=yes
+ 2858  brew install internal-library-compile
+ 2859  make package message=yes
+ 2860  make package install
+ 2861  make 
+ 2862  ls
+ 2863  vim Makefile
+ 2864  clear
+ 2865  make
+ 2866  make package
+ 2867  make package install
+ 2868  cd ..
+ 2869  ls
+ 2870  rm -rf testweak
+ 2871  /opt/theos/bin/nic.pl
+ 2872  ls
+ 2873  cd testweak
+ 2874  ls
+ 2875  make package install
+ 2876  clear
+ 2877  make package install
+ 2878  export THEOS=/opt/theos
+ 2879  make package install
+ 2880  make package messages=yes
+ 2881  make messages=yes
+ 2882  make package
+ 2883  make package message=yes
+ 2884  clear
+ 2885  sudo make
+ 2886  ls
+ 2887  sudo make package install
+ 2888  cd ..
+ 2889  ls
+ 2890  rm -rf testweak
+ 2891  ls
+ 2892  sudo /opt/theos/bin/nic.pl
+ 2893  ls
+ 2894  cd testweak
+ 2895  sudo make
+ 2896  ls
+ 2897  make
+ 2898  sudo make
+ 2899  echo $THEO
+ 2900  export THEOS=/opt/theos
+ 2901  echo $THEO
+ 2902  sudo make 
+ 2903  ls
+ 2904  cd ..
+ 2905  ls
+ 2906  rm -rf testweak
+ 2907  sudo rm -rf testweak
+ 2908  ls
+ 2909  cd testweak
+ 2910  ls
+ 2911  make
+ 2912  ldid
+ 2913  make package install
+ 2914  vim /opt/theos/makefiles/package/deb.mk
+ 2915  sudo vim /opt/theos/makefiles/package/deb.mk
+ 2916  make package install
+ 2917  ls
+ 2918  vim Makefile
+ 2919  make package install
+ 2920  clear
+ 2921  make package install
+ 2922  sudo vim /opt/theos/makefiles/package/deb.mk
+ 2923  sudo gedit /opt/theos/makefiles/package/deb.mk
+ 2924  sudo vim /opt/theos/makefiles/package/deb.mk
+ 2925  make package install
+ 2926  sudo vim /opt/theos/makefiles/package/deb.mk
+ 2927  make package install
+ 2928  sudo vim /opt/theos/makefiles/package/deb.mk
+ 2929  make package install
+ 2930  clear
+ 2931  cd ..
+ 2932  ls
+ 2933  cd ~/Desktop
+ 2934  LS
+ 2935  ls
+ 2936  /opt/theos/bin/nic.pl
+ 2937  cd testapp
+ 2938  ls
+ 2939  make
+ 2940  ls
+ 2941  vim Ma
+ 2942  vim Ma\n
+ 2943  ls
+ 2944  vim Makefile
+ 2945  make package install
+ 2946  sudo make package install
+ 2947  make package install
+ 2948  cd ..
+ 2949  ls
+ 2950  cd ~/Desktop
+ 2951  ls
+ 2952  /opt/theos/bin/nic.pl
+ 2953  cd testweak
+ 2954  ls
+ 2955  make
+ 2956  ls
+ 2957  make package install
+ 2958  ls
+ 2959  make package install
+ 2960  cd ~/Desktop
+ 2961  ls
+ 2962  /opt/theos/bin/nic.pl
+ 2963  cd testapp
+ 2964  ls
+ 2965  make
+ 2966  exit
+ 2967  cd /var/tmp
+ 2968  ls
+ 2969  ip -a
+ 2970  ip a
+ 2971  ipconfig
+ 2972  ifconfig
+ 2973  cd ~/Desktop/
+ 2974  ls
+ 2975  scp root@192.168.10.101:/private/var/mobile/Library/SMS/sms.db .
+ 2976  scp root@192.168.10.101:/private/var/mobile/Library/AddressBook/AddressBook.sqlitedb .
+ 2977  scp root@192.168.10.101:/private/var/wireless/Library/CallHistory/call_history.db .
+ 2978  cd /Users/wangye/Desktop/iphone-trojan 
+ 2979  ls
+ 2980  git add .
+ 2981  git commit -m "da ling daim "
+ 2982  git push
+ 2983  ls
+ 2984  git pull
+ 2985  git push
+ 2986  ls
+ 2987  cd iOSMM
+ 2988  lks
+ 2989  ls
+ 2990  cd iOSMM
+ 2991  ls
+ 2992  cd ..
+ 2993  ls
+ 2994  cd ..
+ 2995  ls
+ 2996  cd /Users/wangye/Downloads/
+ 2997  ls
+ 2998  ./object-494 ~/Desktop/iOSMM\ 2017-11-7\ 11.36.xcarchive
+ 2999  sudo ./object-494 ~/Desktop/iOSMM\ 2017-11-7\ 11.36.xcarchive
+ 3000  cd ~/Desktop/testapp
+ 3001  ls
+ 3002  make package install
+ 3003  echo $THEO
+ 3004  cd $THEO
+ 3005  pwd
+ 3006  cd $THEO
+ 3007  pwd
+ 3008  cd /opt
+ 3009  ls
+ 3010  cd $THEOS
+ 3011  ls
+ 3012  pwd
+ 3013  clar
+ 3014  clear
+ 3015  vim ~./bash_profile
+ 3016  pwd
+ 3017  cd ~
+ 3018  ls
+ 3019  vim
+ 3020  cd ~
+ 3021  ls
+ 3022  export THEOS=/opt/theos
+ 3023  cd ~/Desktop
+ 3024  ls
+ 3025  cd testapp
+ 3026  ls
+ 3027  make package install
+ 3028  ls
+ 3029  ls *.m
+ 3030  ls *.mm
+ 3031  ls *.m
+ 3032  ls *.m > 1.txt
+ 3033  ls
+ 3034  ls Net
+ 3035  ls Net > 2.txt
+ 3036  ls Modal > 3.txt
+ 3037  cd ~/Desktop
+ 3038  ls
+ 3039  cd testapp
+ 3040  ls
+ 3041  make package install
+ 3042  l
+ 3043  ls
+ 3044  clear
+ 3045  ls -R Tools
+ 3046  ls -R Tools > 3.txt
+ 3047  make package install
+ 3048  make package
+ 3049  make package install
+ 3050  ls
+ 3051  vim MMnetgettask.h
+ 3052  make package install
+ 3053  vim MMqueq.h
+ 3054  make package install
+ 3055  vim MMnetgettask.h
+ 3056  vim MMqueq.h
+ 3057  make package install
+ 3058  vim MMthreadmanager.h
+ 3059  make package install
+ 3060  clear
+ 3061  make package install
+ 3062  r,-Wincompatible-pointer-types]
+ 3063  make package install
+ 3064  make package install –Wno-unused-but-set-variable
+ 3065  make package install
+ 3066  make clean
+ 3067  make package install
+ 3068  make2 package install
+ 3069  open ~/.bash_profile
+ 3070  ls
+ 3071  cd ..
+ 3072  ls
+ 3073  cd testapp
+ 3074  ls
+ 3075  clear
+ 3076  make package install
+ 3077  clear
+ 3078  make package install
+ 3079  clear
+ 3080  make package install
+ 3081  clear
+ 3082  make package install
+ 3083  clear
+ 3084  make package install
+ 3085  ls
+ 3086  rm -rf obj
+ 3087  ls
+ 3088  mkdir obj
+ 3089  make package install
+ 3090  cd ..
+ 3091  ls
+ 3092  cd ~/Desktop
+ 3093  ls
+ 3094  clear
+ 3095  ls
+ 3096  /opt/theos/bin/nic.pl
+ 3097  cd testweak
+ 3098  ls
+ 3099  make
+ 3100  make package install
+ 3101  make package install -v
+ 3102  make package install
+ 3103  cd ~/Desktop
+ 3104  ls
+ 3105  /opt/theos/bin/nic.pl
+ 3106  cd testapp
+ 3107  ls
+ 3108  make
+ 3109  ls
+ 3110  make package install
+ 3111  cd ..
+ 3112  /opt/theos/bin/nic.pl
+ 3113  cd testapp
+ 3114  ls
+ 3115  make
+ 3116  cd ..
+ 3117  ls
+ 3118  /opt/theos/bin/nic.pl
+ 3119  cd testweak
+ 3120  ls
+ 3121  vim Makefile
+ 3122  cd ..
+ 3123  ls
+ 3124  cd testapp
+ 3125  ls
+ 3126  make package install
+ 3127  cd ..
+ 3128  ls
+ 3129  cd iphone-trojan
+ 3130  ls
+ 3131  git add .
+ 3132  git commit -m '1107'
+ 3133  git push
+ 3134  git pull
+ 3135  ping 192.168.1.187
+ 3136  make package install
+ 3137  pwd
+ 3138  ls
+ 3139  cd ~/Desktop
+ 3140  ls
+ 3141  cd testapp
+ 3142  make package install
+ 3143  ls
+ 3144  make package install
+ 3145  cd  ~/Desktop
+ 3146  ls
+ 3147  cd testapp
+ 3148  ls
+ 3149  make package install
+ 3150  export THEOS=/opt/theos/
+ 3151  make package install
+ 3152  ls
+ 3153  sudo vim ~/.bash_profile
+ 3154  ls
+ 3155  cd ~/Desktop
+ 3156  ls
+ 3157  cd testapp
+ 3158  ls
+ 3159  make package install
+ 3160  export THEOS=/opt/theos
+ 3161  export PATH=$THEOS/bin:$PATH
+ 3162  make package install
+ 3163  export THEOS=/opt/theos
+ 3164  cd ~/Desktop
+ 3165  ls
+ 3166  cd testapp
+ 3167  ls
+ 3168  export PATH=$THEOS/bin:$PATH
+ 3169  make package install
+ 3170  ls
+ 3171  make package install
+ 3172  ssh root@192.168.10.104
+ 3173  ifconfig
+ 3174  ping 192.168.10.104
+ 3175  ssh 192.168.10.104
+ 3176  ssh root@192.168.10.104
+ 3177  make
+ 3178  ssh root@192.168.10.104 2222
+ 3179  ssh root@192.168.10.104
+ 3180  sudo root@192.168.10.104
+ 3181  sudo ssh root@192.168.10.104
+ 3182  ls
+ 3183  make package install
+ 3184  sudo make package install
+ 3185  make package install
+ 3186  cd /Users/wangye
+ 3187  cd .ssh
+ 3188  ls
+ 3189  cat known_hosts
+ 3190  sudo checknr
+ 3191  ls
+ 3192  sudo vim known_hosts
+ 3193  ls
+ 3194  cd ~/Desktop
+ 3195  ls
+ 3196  cd testapp
+ 3197  ls
+ 3198  make package install
+ 3199  make clean
+ 3200  ls
+ 3201  make package install
+ 3202  export THEOS=/opt/theos
+ 3203  make package install
+ 3204  ping www.baidu.com
+ 3205  cd /
+ 3206  ls
+ 3207  pwd
+ 3208  find . -name abcdefg.txt
+ 3209  sudo find . -name abcdefg.txt
+ 3210  cd ^[[200~./Users/wangye/Library/Developer/Xcode/DerivedData/mac_testapp-ealmdtgjsddkkncohpgwvvxjfgna/Build/Products/Debug/~
+ 3211  ls
+ 3212  cd ^[[200~./Users/wangye/Library/Developer/Xcode/DerivedData/mac_testapp-ealmdtgjsddkkncohpgwvvxjfgna/Build/Products/Debug/
+ 3213  ls
+ 3214  cd ./Users/wangye/Library/Developer/Xcode/DerivedData/mac_testapp-ealmdtgjsddkkncohpgwvvxjfgna/Build/Products/Debug/
+ 3215  pwd
+ 3216  ls
+ 3217  cat abcdefg.txt
+ 3218  rm -rf abcdefg.txt
+ 3219  calc
+ 3220  export THEOS=/opt/theos\n
+ 3221  cd ~/Desktop/testapp
+ 3222  ls
+ 3223  make package install
+ 3224  cd ~/Desktop
+ 3225  ls
+ 3226  /opt/theos/bin/nic.pl
+ 3227  cd testweak
+ 3228  ls
+ 3229  make
+ 3230  ls
+ 3231  cd  ..
+ 3232  cd  testapp
+ 3233  ls
+ 3234  make package install
+ 3235  cd ..
+ 3236  ls
+ 3237  cd testweak
+ 3238  ls
+ 3239  make package install
+ 3240  cd ..
+ 3241  cd testapp
+ 3242  ls
+ 3243  make package install
+ 3244  svn
+ 3245  svn -help
+ 3246  svn --help
+ 3247  cd  ..
+ 3248  cd testweak
+ 3249  ls
+ 3250  make package install
+ 3251  cd ~/Desktop
+ 3252  ls
+ 3253  svn checkout svn://192.168.0.242/wangye/src
+ 3254  cd src
+ 3255  ls
+ 3256  cd mac_testapp
+ 3257  ls
+ 3258  svn add .
+ 3259  cd ..
+ 3260  ls
+ 3261  svn update
+ 3262  ls
+ 3263  cd mac_testapp
+ 3264  ls
+ 3265  svn add .
+ 3266  ls
+ 3267  svn add mac_testapp
+ 3268  ls
+ 3269  svn add mac_testapp.xcodeproj
+ 3270  ls
+ 3271  svn commit -m "import project"
+ 3272  ls
+ 3273  cd ..
+ 3274  ls
+ 3275  svn update
+ 3276  ls
+ 3277  svn add ios_testapp
+ 3278  cd  ios_testapp
+ 3279  ls
+ 3280  svn add Makefile Tweak.xm iOSMM iOSMM.xcodeproj
+ 3281  svn commit -m "import ios"
+ 3282  svn update
+ 3283  ls
+ 3284  cd ..
+ 3285  ls
+ 3286  pwd
+ 3287  ls
+ 3288  svn update
+ 3289  ls
+ 3290  cd ios_testapp
+ 3291  ls
+ 3292  cd ~/Desktop
+ 3293  ls
+ 3294  svn checkout svn://192.168.0.242/wangye/src
+ 3295  ls
+ 3296  cd src
+ 3297  ls
+ 3298  svn update
+ 3299  ls
+ 3300  cd ios_testapp
+ 3301  ls
+ 3302  cd cydia
+ 3303  ls
+ 3304  cd normal_app
+ 3305  ls
+ 3306  svn add .
+ 3307  ls
+ 3308  svn add .
+ 3309  svn add *.*
+ 3310  ls
+ 3311  svn commit -m "import cydia"
+ 3312  ls
+ 3313  cd ..
+ 3314  ls
+ 3315  cd normal_app
+ 3316  ls
+ 3317  svn commit
+ 3318  svn update
+ 3319  cd ..
+ 3320  ls
+ 3321  cd ..
+ 3322  ls
+ 3323  svn add readme.txt
+ 3324  svn commit -m "readme.txt"
+ 3325  ls
+ 3326  svn commit
+ 3327  svn update
+ 3328  ls
+ 3329  svn add readme.txt
+ 3330  svn commit
+ 3331  svn commit -m "test"
+ 3332  ls
+ 3333  cd ~/Desktop/src
+ 3334  ls
+ 3335  cd ios_testapp
+ 3336  s
+ 3337  ls
+ 3338  svn update
+ 3339  ls
+ 3340  cd ..
+ 3341  ls
+ 3342  svn add DemeterToMM接口文档.7z
+ 3343  svn commimt 
+ 3344  svn commimt -m "document"
+ 3345  ls
+ 3346  svn update
+ 3347  ls
+ 3348  svn add DemeterToMM接口文档.7z
+ 3349  svn commit -m "7zip"
+ 3350  ls
+ 3351  cd ios_testapp
+ 3352  ls
+ 3353  svn update
+ 3354  ls
+ 3355  ls -la
+ 3356  cd iphone_db
+ 3357  ls
+ 3358  svn add *.*
+ 3359  svn commit -m "dbfile"
+ 3360  ls
+ 3361  executeCMD:
+ 3362  cd ~/Desktop
+ 3363  ls
+ 3364  cd src
+ 3365  ls
+ 3366  cd mac_testapp
+ 3367  ls
+ 3368  svn commit -m "修改command 任务属性"
+ 3369  ps aux >> ./log
+ 3370  vim log
+ 3371  ls
+ 3372  rm -rf log
+ 3373  ls
+ 3374  svn commit -m "fix bug"
+ 3375  cd ..
+ 3376  ls
+ 3377  cd ios_testapp
+ 3378  ls
+ 3379  svn commit -m "add gps"
+ 3380  svn update
+ 3381  make package install
+ 3382  cd ~/Desktop
+ 3383  ls
+ 3384  cd src
+ 3385  ls
+ 3386  cd ..
+ 3387  ls
+ 3388  cd testapp
+ 3389  ls
+ 3390  export THEOS=/opt/theos\n
+ 3391  ls
+ 3392  make package install
+ 3393  cd ..
+ 3394  cd testweak
+ 3395  ls
+ 3396  make package install
+ 3397  cd ..
+ 3398  cd testapp
+ 3399  ls
+ 3400  make package install
+ 3401  ssh root@192.168.10.106 -p2222
+ 3402  ssh root@192.168.10.106
+ 3403  ssh root@192.168.10.106 -p 2222
+ 3404  ssh root@192.168.10.106
+ 3405  ls
+ 3406  ssh root@192.168.10.106
+ 3407  ssh root@192.168.10.106 -p 2222
+ 3408  ssh root@192.168.10.106
+ 3409  cd ..
+ 3410  ls
+ 3411  cd testweak
+ 3412  ls
+ 3413  make package install
+ 3414  cd ..
+ 3415  ls
+ 3416  cd testapp
+ 3417  ls
+ 3418  make package install
+ 3419  cd ..
+ 3420  cd testweak
+ 3421  ls
+ 3422  make package install
+ 3423  cd ..
+ 3424  cd testapp
+ 3425  ls
+ 3426  make package install
+ 3427  cd ..
+ 3428  ls
+ 3429  cd testweak
+ 3430  ls
+ 3431  make package install
+ 3432  ssh root@192.168.10.106
+ 3433  make package install
+ 3434  ls
+ 3435  make package install
+ 3436  cd ..
+ 3437  cd ~/Desktop
+ 3438  ls
+ 3439  clear
+ 3440  /opt/theos/bin/nic.pl
+ 3441  cd test222
+ 3442  ls
+ 3443  make
+ 3444  make package install
+ 3445  cd ..
+ 3446  s
+ 3447  ls
+ 3448  rm -rf testweak
+ 3449  ls
+ 3450  /opt/theos/bin/nic.pl
+ 3451  cd testweak
+ 3452  ls
+ 3453  make
+ 3454  make package install
+ 3455  cd ..
+ 3456  ls
+ 3457  cd testapp
+ 3458  ls
+ 3459  make package install
+ 3460  cd ~/Desktop
+ 3461  ls
+ 3462  cd src
+ 3463  ls
+ 3464  svn commit -m "update code"
+ 3465  make package install
+ 3466  ssh root@192.168.10.106
+ 3467  make package install
+ 3468  ssh root@192.168.10.106
+ 3469  make package install
+ 3470  cd ..
+ 3471  cd testweak
+ 3472  ls
+ 3473  make package install
+ 3474  cd ..
+ 3475  cd testapp
+ 3476  ls
+ 3477  make package install
+ 3478  ifocnfig
+ 3479  ifcofig
+ 3480  ifconfig
+ 3481  make package install
+ 3482  ssh root@192.168.10.105
+ 3483  make package install
+ 3484  cd ..
+ 3485  cd testweak
+ 3486  ls
+ 3487  clear
+ 3488  make package install
+ 3489  ssh root@192.168.10.105
+ 3490  t
+ 3491  exit
+ 3492  cd ~/Desktop
+ 3493  ls
+ 3494  export THEOS=/opt/theos\n
+ 3495  cd testweak
+ 3496  ls
+ 3497  make package install
+ 3498  ssh root@192.168.10.106
+ 3499  ls
+ 3500  make package install
+ 3501  ssh root@192.168.10.106
+ 3502  cd /Users/wangye/Library/Developer/CoreSimulator/Devices/9050A138-9A2C-43F0-AD89-94C8DA104443/data/Containers/Data/Application/9E95834D-3003-4AE2-89D2-DA1ADB7C5D20/Documents/will_upload
+ 3503  ls
+ 3504  ls -la
+ 3505  cd ..
+ 3506  ls
+ 3507  cd will_upload
+ 3508  ls
+ 3509  cd ..
+ 3510  ls
+ 3511  pwd
+ 3512  exit
+ 3513  ssh root@192.168.10.106
+ 3514  cd ~/Desktop
+ 3515  ls
+ 3516  vim iosmm.txt
+ 3517  pwd
+ 3518  ls *.txt
+ 3519  cd testweak
+ 3520  ls
+ 3521  clear
+ 3522  make package
+ 3523  make
+ 3524  ls
+ 3525  export THEOS=/opt/theos
+ 3526  make 
+ 3527  make pagckage
+ 3528  make package
+ 3529  make package install
+ 3530  clear
+ 3531  make package
+ 3532  cd ./packages
+ 3533  ls
+ 3534  cd ..
+ 3535  ls
+ 3536  cd ./packages
+ 3537  ls
+ 3538  rm -rf *.*
+ 3539  ls
+ 3540  cd ..
+ 3541  ls
+ 3542  make package
+ 3543  cd ./packages
+ 3544  ls
+ 3545  cp *.deb ~/Desktop
+ 3546  cp *.deb ~/Desktop/1111/.
+ 3547  ls
+ 3548  cd ~/Desktop
+ 3549  ls
+ 3550  cd 1111
+ 3551  ls
+ 3552  ls -la
+ 3553  chmod 777 *.deb
+ 3554  ls
+ 3555  vim iosmm.txt
+ 3556  vim readme.txt
+ 3557  ls
+ 3558  cat iosmm.txt
+ 3559  cat readme.txt
+ 3560  ls
+ 3561  cd ..
+ 3562  mv 1111 iosmm
+ 3563  zip -r ios/ios.zip iosmm/
+ 3564  ls
+ 3565  cd iosmm
+ 3566  ls
+ 3567  cd ..
+ 3568  tar -zcvf ./ios.tar.gz ~/Desktop/iosmm
+ 3569  ls ios*.*
+ 3570  ls -la
+ 3571  defaults write com.apple.finder AppleShowAllFiles -bool true
+ 3572  ls
+ 3573  mkdir 2222
+ 3574  pwd
+ 3575  ls
+ 3576  cp ios.tar.gz aaa/.
+ 3577  ls
+ 3578  cd aaa
+ 3579  ls
+ 3580  tar xvzf ios.tar.gz
+ 3581  ls
+ 3582  cd Users
+ 3583  ls
+ 3584  cd wangye
+ 3585  ls
+ 3586  cd Desktop
+ 3587  ls
+ 3588  cd iosmm
+ 3589  ls
+ 3590  cd ..
+ 3591  ls
+ 3592  cd ..
+ 3593  ls
+ 3594  cd ..
+ 3595  ls
+ 3596  cd ..
+ 3597  ls
+ 3598  rm -rf Users
+ 3599  cd ..
+ 3600  ls
+ 3601  cd iosmm
+ 3602  ls
+ 3603  cd ..
+ 3604  ls
+ 3605  clear
+ 3606  tar -zcvf ios11.tar.gz iosmm
+ 3607  ls
+ 3608  ls -la ios11.tar.gz
+ 3609  chmod 777 ios11.tar.gz
+ 3610  ls
+ 3611  ls -la
+ 3612  ls -la ios11.tar.gz
+ 3613  cd ~/Desktop/testweak
+ 3614  ls
+ 3615  clear
+ 3616  make package install
+ 3617  ls
+ 3618  cd ~/Desktop
+ 3619  ls
+ 3620  cat iosmm.txt
+ 3621  cp iosmm.txt /.
+ 3622  sudo cp iosmm.txt /.
+ 3623  cd ~/Desktop
+ 3624  ls
+ 3625  cd src
+ 3626  ls
+ 3627  svn commit -m "update all "
+ 3628  cd ~/Desktop/testapp
+ 3629  ls
+ 3630  export THEOS=/opt/theos\n
+ 3631  make package install
+ 3632  cd ~/Desktop
+ 3633  ls
+ 3634  cd src
+ 3635  ls
+ 3636  svn add *.*
+ 3637  svn add *.docx
+ 3638  ls
+ 3639  clear
+ 3640  svn update
+ 3641  ls
+ 3642  svn add ios_deb.tar.gz
+ 3643  ls
+ 3644  svn add IOS IOS\ 问题.docx
+ 3645  svn commit -m "add doc files"
+ 3646  svn updae
+ 3647  svn update
+ 3648  ls
+ 3649  cd ~/Desktop/src
+ 3650  ls
+ 3651  svn commit -m "fix bug"
+ 3652  ls
+ 3653  svn commit -m '去掉分片'
+ 3654  LS
+ 3655  svn commit -m "fix plist file"
+ 3656  defaults write com.apple.finder AppleShowAllFiles -bool false
+ 3657  cd ~/Desktop
+ 3658  cd src
+ 3659  ls
+ 3660  cd ios_testapp
+ 3661  ls
+ 3662  svn commit -m "fix database path bug"
+ 3663  exit
+ 3664  nc
+ 3665  nc -v
+ 3666  ls
+ 3667  clear
+ 3668  brew install nc
+ 3669  brew install netcat
+ 3670  netcat
+ 3671  netcat -v
+ 3672  man nc
+ 3673  ls
+ 3674  clear
+ 3675  ping 192.168.10.102
+ 3676  cd /Users/wangye/study/风水视频/阴阳八字/cc 
+ 3677  ls
+ 3678  cd ..
+ 3679  ls
+ 3680  clear
+ 3681  ls
+ 3682  clear
+ 3683  sudo scp -r cc root@192.168.10.102:/mnt/hgfs/aaa
+ 3684  cd ~/Desktop
+ 3685  ls
+ 3686  cd testweak
+ 3687  ls
+ 3688  clear
+ 3689  export THEOS=/opt/theos\n
+ 3690  make package install
+ 3691  cat Makefile
+ 3692  clear
+ 3693  make package install
+ 3694  sudo make package install
+ 3695  ssh root@192.168.10.105
+ 3696  sudo ssh root@192.168.10.105
+ 3697  ls
+ 3698  make package install
+ 3699  ls
+ 3700  rm -rf packages
+ 3701  ls
+ 3702  make package install
+ 3703  sudo make package install
+ 3704  ls
+ 3705  clear
+ 3706  sudo make package install
+ 3707  make package install
+ 3708  sudo vim /Users/wangye/.ssh/known_hosts
+ 3709  make package install
+ 3710  cd ..
+ 3711  cd testapp
+ 3712  ls
+ 3713  clear
+ 3714  make package install
+ 3715  sudo scp -r 11 root@192.168.10.102:/mnt/hgfs/aaa
+ 3716  ssh root@192.168.10.106
+ 3717  cd ..
+ 3718  cd testweak
+ 3719  ls
+ 3720  make package install
+ 3721  cd ~/Desktop
+ 3722  ls
+ 3723  cd test
+ 3724  cd testweak
+ 3725  ls
+ 3726  make package install
+ 3727  ssh root@192.168.10.105
+ 3728  make package install
+ 3729  cd /Users/wangye/study/风水视频/阴阳八字
+ 3730  ls
+ 3731  cd 第三期
+ 3732  ls
+ 3733  clear
+ 3734  tar cfz - * | nc 192.168.1.111 9995
+ 3735  ip a
+ 3736  ifoconfg
+ 3737  ifconfig
+ 3738  nc
+ 3739  nc -h
+ 3740  ps aux
+ 3741  top
+ 3742  clar
+ 3743  ls
+ 3744  ping 192.168.1.111
+ 3745  clear
+ 3746  ls
+ 3747  tar cfz - *
+ 3748  ls
+ 3749  clear
+ 3750  tar cfz - *
+ 3751  ls
+ 3752  clear
+ 3753  ls
+ 3754  cd ..
+ 3755  ls
+ 3756  tar cfz - 第三期
+ 3757  ls
+ 3758  clear
+ 3759  ls
+ 3760  clear
+ 3761  cd ..
+ 3762  ls
+ 3763  tar -czvf - 阴阳八字
+ 3764  ls
+ 3765  tar -czvf 阴阳八字 -
+ 3766  tar -czvf 阴阳八字/. -
+ 3767  ls
+ 3768  cd 阴阳八字
+ 3769  ls
+ 3770  cd 11
+ 3771  ls
+ 3772  cd ..
+ 3773  ls
+ 3774  cd 11
+ 3775  ls
+ 3776  cd ..
+ 3777  ls
+ 3778  cd 第三期
+ 3779  ls
+ 3780  clar
+ 3781  clear
+ 3782  tar -czvf -
+ 3783  tar -czvf * -
+ 3784  ls
+ 3785  cleaer
+ 3786  clear
+ 3787  tar -czvf 33.tar.gz
+ 3788  tar -czvf * 33.tar.gz
+ 3789  ls
+ 3790  cd ..
+ 3791  ls
+ 3792  tar -czvf 33.tar.gz ./第三期
+ 3793  nc 192.168.1.111 9995 < 33.tar.gz
+ 3794  top
+ 3795  nmap 192.168.1.111
+ 3796  brew install nmap
+ 3797  nmap 192.168.1.111
+ 3798  nc
+ 3799  nc -nvv 192.168.1.111 9995
+ 3800  nc -nvv 192.168.1.111 22
+ 3801  nmap 192.168.1.111
+ 3802  nc 192.168.1.111 9995 < 33.tar.gz
+ 3803  netstat -tln
+ 3804  clear
+ 3805  netstat -an
+ 3806  lcear
+ 3807  clear
+ 3808  netstat -a
+ 3809  netstat -ap
+ 3810  nmap 192.168.1.111
+ 3811  netstat -ntlp
+ 3812  netstat -tlp
+ 3813  netstat tlp
+ 3814  lsof -i tcp:22
+ 3815  lsof -i tcp:9995
+ 3816  nc -vv 192.168.1.111 9995 < 33.tar.gz
+ 3817  ls
+ 3818  nc -zz -l -p 9995 > 1.txt
+ 3819  nc -vv 127.0.0.1 9995 < 在mac上用触动精灵.md
+ 3820  nc -zz -l 9995 > 1.txt
+ 3821  nc -vv 127.0.0.1 9995 < 在mac上用触动精灵.md
+ 3822  nc -zz -l -p 9995 > 1.txt
+ 3823  nc -v 127.0.0.1 9995 < 在mac上用触动精灵.md
+ 3824  nc -vv 127.0.0.1 9995 < 在mac上用触动精灵.md
+ 3825  nc -h
+ 3826  nc -zz -l 9995 > 1.txt
+ 3827  nc -vv 127.0.0.1 9995 < 在mac上用触动精灵.md
+ 3828  nc -zz -l 4444 > 1.txt
+ 3829  nc -vv 127.0.0.1 4444 < 在mac上用触动精灵.md
+ 3830  nc -vv 127.0.0.1 -p 4444 < 在mac上用触动精灵.md
+ 3831  ls
+ 3832  cldar
+ 3833  cldear
+ 3834  ls
+ 3835  clear
+ 3836  ls
+ 3837  ls -la
+ 3838  clear
+ 3839  nc 192.168.1.111 9999 < 33.tar.gz
+ 3840  cd /Users/wangye/study/风水视频/阴阳八字/
+ 3841  ls
+ 3842  ls -la 
+ 3843  ls
+ 3844  cd /Users/wangye/study/风水视频/阴阳八字/第二期 
+ 3845  cd ..
+ 3846  ls
+ 3847  scp 第一期 root@192.168.1.111
+ 3848  scp 第一期/*.* root@192.168.1.111:/mnt/hgfs/share/11
+ 3849  cd /Users/wangye/study/风水视频/阴阳八字/
+ 3850  ls
+ 3851  clear
+ 3852  nc -vv 192.168.1.111 < 阴阳八字课件.pptx 
+ 3853  nc -vv 192.168.1.111 9999 < 阴阳八字课件.pptx
+ 3854  scp /Users/wangye/study/风水视频/阴阳八字/第二期/八字课堂第二期_五行生克3.mp4 /Users/wangye/study/风水视频/阴阳八字/第二期/八字课堂第二期_五行生克4.mp4 /Users/wangye/study/风水视频/阴阳八字/第二期/八字课堂第二期_五行生克5.mp4  root@192.168.1.111:/mnt/hgfs/share/22
+ 3855  scp /Users/wangye/study/风水视频/阴阳八字/第二期/八字课堂第二期_五行生克6.mp4 /Users/wangye/study/风水视频/阴阳八字/第二期/八字课堂第二期_五行生克7.mp4 /Users/wangye/study/风水视频/阴阳八字/第二期/八字课堂第二期_五行生克8.mp4 /Users/wangye/study/风水视频/阴阳八字/第二期/八字课堂第二期_五行生克9.mp4 /Users/wangye/study/风水视频/阴阳八字/第二期/八字课堂第二期_五行生克10.mp4 /Users/wangye/study/风水视频/阴阳八字/第二期/八字课堂第二期_五行生克11.mp4 root@192.168.1.111:/mnt/hgfs/share/22
+ 3856  ls
+ 3857  cleaer
+ 3858  ssh root@192.168.1.111
+ 3859  exit
+ 3860  ping https://yearnwang.github.io/
+ 3861  ping yearnwang.github.io
+ 3862  cd ~/Desktop
+ 3863  ls
+ 3864  clear
+ 3865  git clone https://github.com/yearnwang/yearnwang.github.io.git
+ 3866  ls
+ 3867  cd yearnwang.github.io
+ 3868  ls
+ 3869  clear
+ 3870  ls
+ 3871  vim CNAME
+ 3872  ls
+ 3873  clear
+ 3874  hexo c
+ 3875  ls
+ 3876  hexo
+ 3877  hexo c
+ 3878  hexo g
+ 3879  hexo d
+ 3880  pwd
+ 3881  nodejs
+ 3882  node
+ 3883  ls
+ 3884  clear
+ 3885  npm install -g hexo-cli
+ 3886  ls
+ 3887  hexo clean
+ 3888  ls
+ 3889  hexo
+ 3890  ls
+ 3891  cat CNAME
+ 3892  vim CNAME
+ 3893  clear
+ 3894  ls
+ 3895  ls -la
+ 3896  ls
+ 3897  cd so
+ 3898  ls -la
+ 3899  node -v
+ 3900  ls
+ 3901  hexo clean
+ 3902  ls
+ 3903  clear
+ 3904  hexo init blog
+ 3905  ls
+ 3906  cd blog
+ 3907  ls
+ 3908  cd source
+ 3909  ls
+ 3910  cd _posts
+ 3911  ls
+ 3912  cd ..
+ 3913  ls
+ 3914  cd..
+ 3915  ls
+ 3916  cd ..
+ 3917  ls
+ 3918  cd ..
+ 3919  ls
+ 3920  rm -rf blog
+ 3921  ls
+ 3922  npm install
+ 3923  ls
+ 3924  hexo clean
+ 3925  hexo c
+ 3926  ls
+ 3927  hexo g
+ 3928  ls
+ 3929  cd ..
+ 3930  ls
+ 3931  cd yearnwang.github.io
+ 3932  ls
+ 3933  clear
+ 3934  npm install hexo -server --save
+ 3935  npm install hexo-deployer-git --save
+ 3936  ls
+ 3937  hexo clean
+ 3938  hexo g
+ 3939  hexo server
+ 3940  ls
+ 3941  ping        风水案例\nask                fancybox           tags
+ 3942  ls
+ 3943  clear
+ 3944  ls
+ 3945  hexo init
+ 3946  ls
+ 3947  hexo clean
+ 3948  hexo c
+ 3949  ls
+ 3950  vim _config.yml
+ 3951  ls
+ 3952  cd ..
+ 3953  ls
+ 3954  clear
+ 3955  echo "# fengshui_blog" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit remote add origin https://github.com/yearnwang/fengshui_blog.git\ngit push -u origin master
+ 3956  ls
+ 3957  cd fengshui
+ 3958  ls
+ 3959  cd ..
+ 3960  ls
+ 3961  cd src
+ 3962  ls
+ 3963  cd ..
+ 3964  ls
+ 3965  clear
+ 3966  ls
+ 3967  cd ~/Desktop
+ 3968  ls
+ 3969  lc
+ 3970  clear
+ 3971  git clone https://github.com/yearnwang/fengshui_blog.git
+ 3972  ls
+ 3973  cd fengshui
+ 3974  cd ..
+ 3975  ls
+ 3976  cd fengshui_blog
+ 3977  ls
+ 3978  clear
+ 3979  ls
+ 3980  clear
+ 3981  ls
+ 3982  cd ..
+ 3983  ls
+ 3984  rm -rf fengshui_blog
+ 3985  ls
+ 3986  cd fengshui
+ 3987  ls
+ 3988  cd ..
+ 3989  ls
+ 3990  clear
+ 3991  ls
+ 3992  clear
+ 3993  ls
+ 3994  mkdir ccc
+ 3995  cd ccc
+ 3996  ls
+ 3997  clear
+ 3998  ls
+ 3999  clear
+ 4000  git clone https://github.com/yearnwang/fengshui_hexo_blog.git
+ 4001  ls
+ 4002  cd fengshui_hexo_blog
+ 4003  ls
+ 4004  npm install hexo
+ 4005  npm install
+ 4006  ls
+ 4007  hexo clean
+ 4008  hexo g
+ 4009  ls
+ 4010  cd ..
+ 4011  cd fengshui_hexo_blog
+ 4012  ls
+ 4013  hexo celan
+ 4014  hexo clean
+ 4015  cd ..
+ 4016  ls
+ 4017  rm -rf fengshui_hexo_blog
+ 4018  ls
+ 4019  git clone https://github.com/yearnwang/fengshui_hexo_blog.git
+ 4020  ls
+ 4021  vim fengshui_hexo_blog
+ 4022  ls
+ 4023  cd fengshui_hexo_blog
+ 4024  ls
+ 4025  vim _config.yml
+ 4026  ls
+ 4027  cd ..
+ 4028  ls
+ 4029  rm -rf fengshui_hexo_blog
+ 4030  ls
+ 4031  git clone https://github.com/yearnwang/fengshui_hexo_blog.git
+ 4032  ls
+ 4033  cd fengshui_hexo_blog
+ 4034  ls
+ 4035  clear
+ 4036  vim _config.yml
+ 4037  ls
+ 4038  git commit -m "update config"
+ 4039  git pull
+ 4040  git push
+ 4041  git pull
+ 4042  git commit -m "update configy"
+ 4043  ls
+ 4044  git add _config.yml
+ 4045  git commit -m 'update'
+ 4046  git push
+ 4047  ls
+ 4048  hexo clean
+ 4049  ls
+ 4050  npm install 
+ 4051  hexo clean
+ 4052  hexo g
+ 4053  ls
+ 4054  hexo d
+ 4055  ls
+ 4056  vim _config.yml
+ 4057  hexo d
+ 4058  vim _config.yml
+ 4059  hexo d
+ 4060  ls
+ 4061  vim _config.yml
+ 4062  ls
+ 4063  switch checkout fs-pages
+ 4064  checkout fs-pages
+ 4065  ls
+ 4066  branch fs-pages
+ 4067  ls
+ 4068  branch
+ 4069  ls
+ 4070  git pull
+ 4071  ls
+ 4072  git checkout fs-pages
+ 4073  ls
+ 4074  rm -rf *
+ 4075  ls
+ 4076  git add .
+ 4077  git commit -m 'clean all'
+ 4078  git push
+ 4079  ls
+ 4080  git push
+ 4081  git checkout fs-dev
+ 4082  ls
+ 4083  vim _config.yml
+ 4084  clear
+ 4085  hexo clean
+ 4086  npm install
+ 4087  ls
+ 4088  hexo c
+ 4089  hexo clean
+ 4090  hexo g
+ 4091  hexo d
+ 4092  hexo c
+ 4093  hexo clean
+ 4094  clear
+ 4095  npm install hexo-deployer-git --save  \n
+ 4096  hexo g
+ 4097  hexo d
+ 4098  ls
+ 4099  hexo g
+ 4100  ls
+ 4101  hexo server
+ 4102  hexo d
+ 4103  ls
+ 4104  cd scaffolds
+ 4105  ls
+ 4106  cd ..
+ 4107  ls
+ 4108  cd source
+ 4109  ls
+ 4110  cd _posts
+ 4111  ls
+ 4112  cd ..
+ 4113  ls
+ 4114  cd ..
+ 4115  ls
+ 4116  cd ..
+ 4117  ls
+ 4118  rm -rf fengshui_hexo_blog
+ 4119  ls
+ 4120  clear
+ 4121  lls
+ 4122  get clone https://github.com/yearnwang/fsblog_-Generator.git
+ 4123  git clone https://github.com/yearnwang/fsblog_-Generator.git
+ 4124  ls
+ 4125  cd fsblog_-Generator
+ 4126  ls
+ 4127  clear
+ 4128  ls
+ 4129  vim hexo_app.sh
+ 4130  vim ds.sh
+ 4131  ls
+ 4132  cat readME.
+ 4133  cat readme.txt
+ 4134  ls
+ 4135  cd source
+ 4136  ls
+ 4137  cd ..
+ 4138  ls
+ 4139  vim _config.yml
+ 4140  ls
+ 4141  git commit -m 'update'
+ 4142  git add _config.yml
+ 4143  git commit -m 'update'
+ 4144  git push
+ 4145  ls
+ 4146  vim _config.yml
+ 4147  ls
+ 4148  cd themes
+ 4149  ls
+ 4150  cd ..
+ 4151  cd themes
+ 4152  ls
+ 4153  cd jacman
+ 4154  ls
+ 4155  vim _config.yml
+ 4156  ls
+ 4157  cd ..
+ 4158  ls
+ 4159  cd ..
+ 4160  ls
+ 4161  cd source
+ 4162  ls
+ 4163  cd _posts
+ 4164  ls
+ 4165  cd ..
+ 4166  ls
+ 4167  cd ..
+ 4168  ls
+ 4169  scp root@115.159.201.155:/opt/pull.net.cn/hexo_post.tar.gz .
+ 4170  ls
+ 4171  cd source
+ 4172  ls
+ 4173  cd ..
+ 4174  ls
+ 4175  mkdir ccc
+ 4176  mv hexo_post.tar.gz ccc/.
+ 4177  ls
+ 4178  cd ccc
+ 4179  ls
+ 4180  clear
+ 4181  ls
+ 4182  tar xvf hexo_post.tar.gz
+ 4183  ls
+ 4184  cd _posts
+ 4185  ls
+ 4186  cd ..
+ 4187  ls
+ 4188  mv hexo_post.tar.gz ../.
+ 4189  ls
+ 4190  cd ..
+ 4191  ls
+ 4192  mv hexo_post.tar.gz source/.
+ 4193  cd source
+ 4194  ls
+ 4195  clear
+ 4196  ls
+ 4197  mv _posts _posts_bak
+ 4198  tar xvf hexo_post.tar.gz
+ 4199  ls
+ 4200  rm -rf hexo_post.tar.gz
+ 4201  ls
+ 4202  cd _posts
+ 4203  ls
+ 4204  cd ,.
+ 4205  cd ..
+ 4206  ls
+ 4207  rm -rf _posts_bak
+ 4208  ls
+ 4209  git add _posts/.
+ 4210  cd ..
+ 4211  ls
+ 4212  hexo clean
+ 4213  npm install
+ 4214  ls
+ 4215  vim hexo_app.sh
+ 4216  ls
+ 4217  npm install hexo-deployer-git --save  \n
+ 4218  ls
+ 4219  hexo g
+ 4220  hexo d
+ 4221  ls
+ 4222  cd source
+ 4223  ls
+ 4224  cd ..
+ 4225  ls
+ 4226  rm -rf ccc
+ 4227  ls
+ 4228  cd source
+ 4229  ls
+ 4230  vim CNAME
+ 4231  git add CNAME
+ 4232  cd ..
+ 4233  ls
+ 4234  hexo clean
+ 4235  hexo g
+ 4236  ls
+ 4237  cd source
+ 4238  ls
+ 4239  cd _posts
+ 4240  ls
+ 4241  cd ..
+ 4242  ls
+ 4243  cd ..
+ 4244  ls
+ 4245  cd ..
+ 4246  ls
+ 4247  cd fsblog_-Generator
+ 4248  ls
+ 4249  clear
+ 4250  ls
+ 4251  clear
+ 4252  hexo g
+ 4253  hexo d
+ 4254  ls
+ 4255  cd themes
+ 4256  ls
+ 4257  cd ..
+ 4258  ls
+ 4259  mkdir ccc
+ 4260  ls
+ 4261  cd ccc
+ 4262  ls
+ 4263  scp root@115.159.201.155:/opt/pull.net.cn/hexo_post.tar.gz .
+ 4264  scp root@115.159.201.155:/opt/pull.net.cn/fs.tar.gz .
+ 4265  ls
+ 4266  tar xvfz fs.tar.gz
+ 4267  pwd
+ 4268  cd ..
+ 4269  ls
+ 4270  cd ..
+ 4271  ls
+ 4272  cd fs
+ 4273  cd ccc
+ 4274  ls
+ 4275  clear
+ 4276  cd fsblog_-Generator
+ 4277  ls
+ 4278  git add .
+ 4279  git commit -m 'update data'
+ 4280  pwd
+ 4281  git pull
+ 4282  git push
+ 4283  ls
+ 4284  git push
+ 4285  ls
+ 4286  clear
+ 4287  git pull
+ 4288  clear
+ 4289  pwd
+ 4290  hexo clean
+ 4291  hexo g
+ 4292  git d
+ 4293  ls
+ 4294  hexo d
+ 4295  ls
+ 4296  cd ..
+ 4297  ls
+ 4298  tar xvfz fs.tar.gz
+ 4299  ls
+ 4300  cd fengshui_hexo
+ 4301  ls
+ 4302  ls -la
+ 4303  cd ..
+ 4304  ls
+ 4305  cd fsblog_-Generator
+ 4306  ls
+ 4307  ls -la
+ 4308  ls
+ 4309  rm -rf *
+ 4310  ls
+ 4311  git add .
+ 4312  git commit -m 'del'
+ 4313  git push
+ 4314  ls
+ 4315  cd ..
+ 4316  ls
+ 4317  cd fengshui_hexo
+ 4318  ls
+ 4319  ls -la
+ 4320  rm -rf .git
+ 4321  rm -rf .deploy_git
+ 4322  ls
+ 4323  clear
+ 4324  ls -la
+ 4325  vim .gitignore
+ 4326  ls
+ 4327  clear
+ 4328  ls -la
+ 4329  cd themes
+ 4330  ls
+ 4331  ls -la
+ 4332  cd ..
+ 4333  ls
+ 4334  clear
+ 4335  ls
+ 4336  cd ..
+ 4337  ls
+ 4338  cd fsblog_-Generator
+ 4339  ls
+ 4340  vim _config.yml
+ 4341  ls
+ 4342  cd ..
+ 4343  ls
+ 4344  mv fsblog_-Generator_bak
+ 4345  mv fsblog_-Generator fsblog_-Generator_bak
+ 4346  ls
+ 4347  git clone https://github.com/yearnwang/fsblog_-Generator.git
+ 4348  ls
+ 4349  cd fsblog_-Generator
+ 4350  ls
+ 4351  ls -la
+ 4352  cd ..
+ 4353  ls
+ 4354  cd fsblog_-Generator
+ 4355  ls
+ 4356  clear
+ 4357  ls
+ 4358  clear
+ 4359  ls
+ 4360  clear
+ 4361  git add .
+ 4362  git commit 'add '
+ 4363  git commit -m 'add'
+ 4364  git pull
+ 4365  git push
+ 4366  ls
+ 4367  cd ..
+ 4368  ls
+ 4369  clear
+ 4370  git clone https://github.com/yearnwang/fsblog_-Generator.git
+ 4371  ls
+ 4372  cd fsblog_-Generator
+ 4373  ls
+ 4374  npm install
+ 4375  npm install hexo-deployer-git --save  \n
+ 4376  ls
+ 4377  hexo clean
+ 4378  hexo g
+ 4379  hexo d
+ 4380  ls
+ 4381  vim _config.yml
+ 4382  ls
+ 4383  vim hexo-deploy.sh
+ 4384  ls
+ 4385  clear
+ 4386  hexo d
+ 4387  vim _config.yml
+ 4388  hexo d
+ 4389  ls
+ 4390  cd source
+ 4391  ls
+ 4392  cd ..
+ 4393  ls
+ 4394  hexo d
+ 4395  cd ..
+ 4396  ls
+ 4397  cd ..
+ 4398  ls
+ 4399  cd eeeee
+ 4400  ls
+ 4401  tar xvfz fs.tar.gz
+ 4402  cd ..
+ 4403  ls
+ 4404  cd ccc
+ 4405  ls
+ 4406  cd fsblog_-Generator
+ 4407  ls
+ 4408  hexo clean
+ 4409  hexo g
+ 4410  hexo d
+ 4411  ls
+ 4412  cd source
+ 4413  ls
+ 4414  cd ..
+ 4415  ls
+ 4416  cd source
+ 4417  ls
+ 4418  cd _posts
+ 4419  ls
+ 4420  cd ..
+ 4421  ls
+ 4422  cd ..
+ 4423  ls
+ 4424  cd node_modules
+ 4425  cd hexo-generator-index
+ 4426  ls
+ 4427  cd lib
+ 4428  ls
+ 4429  vim generator.js
+ 4430  ls
+ 4431  cd ..
+ 4432  ls
+ 4433  cd ..
+ 4434  ls
+ 4435  cd ..
+ 4436  ls
+ 4437  hexo clean
+ 4438  cd source
+ 4439  ls
+ 4440  cd _posts
+ 4441  ls
+ 4442  错的。。
+ 4443  cd ..
+ 4444  ls
+ 4445  cd ..
+ 4446  ls
+ 4447  cd node_modules
+ 4448  ls
+ 4449  cd hexo-generator-index
+ 4450  ls
+ 4451  cd lib
+ 4452  ls
+ 4453  vim generator.js
+ 4454  cd ..
+ 4455  ls
+ 4456  cd ..
+ 4457  ls
+ 4458  cd ..
+ 4459  ls
+ 4460  hexo clean
+ 4461  hexo g
+ 4462  hexo d
+ 4463  ls
+ 4464  hexo clean
+ 4465  git add generator.js
+ 4466  vim readme.txt
+ 4467  ls
+ 4468  cd source
+ 4469  ls
+ 4470  cd _posts
+ 4471  s
+ 4472  ;s
+ 4473  ls
+ 4474  vim test_new.md
+ 4475  vim 一张图简断风水.md
+ 4476  vim test_new.md
+ 4477  ls
+ 4478  hexo new "test_new"
+ 4479  vim test-new.md
+ 4480  ls
+ 4481  cd ..
+ 4482  ls
+ 4483  cd ..
+ 4484  ls
+ 4485  clear
+ 4486  hexo g
+ 4487  hexo d
+ 4488  ls
+ 4489  vim _config.yml
+ 4490  ls
+ 4491  vim _config.yml
+ 4492  ls
+ 4493  hexo g
+ 4494  hexo d
+ 4495  vim _config.yml
+ 4496  hexo d
+ 4497  vim _config.yml
+ 4498  clear
+ 4499  hexo g
+ 4500  hexo d
+ 4501  ls
+ 4502  cd source
+ 4503  ls
+ 4504  cd _posts
+ 4505  ls
+ 4506  vim test-new.md
+ 4507  cd ..
+ 4508  ls
+ 4509  cd ..
+ 4510  ls
+ 4511  hexo g
+ 4512  hexo d
+ 4513  ls
+ 4514  cd ..
+ 4515  ls
+ 4516  cd ..
+ 4517  ls
+ 4518  cd eeeee
+ 4519  ls
+ 4520  cd fengshui_hexo
+ 4521  ls
+ 4522  ls -la
+ 4523  ls
+ 4524  cd ..
+ 4525  ls
+ 4526  rm -rf fengshui_hexo
+ 4527  ls
+ 4528  tar xvfz fs.tar.gz
+ 4529  ls
+ 4530  cd fengshui_hexo
+ 4531  ls
+ 4532  hexo clean
+ 4533  ls
+ 4534  hexo clean
+ 4535  ls
+ 4536  clear
+ 4537  ls
+ 4538  ls -la
+ 4539  rm -rf .git
+ 4540  rm -rf .deploy_git
+ 4541  ls
+ 4542  ls -la
+ 4543  cleaer
+ 4544  ls -la
+ 4545  vim _config.yml
+ 4546  ls
+ 4547  clear
+ 4548  ls
+ 4549  cd sor
+ 4550  cd source
+ 4551  ls
+ 4552  cd ..
+ 4553  ls
+ 4554  git remote add origin https://github.com/yearnwang/fengshui_hexo.git
+ 4555  ls
+ 4556  ls -la
+ 4557  sudo git remote add origin https://github.com/yearnwang/fengshui_hexo.git
+ 4558  git push -u origin master
+ 4559  git remote add origin git@github.com:yearnwang/fengshui_hexo.git
+ 4560  cleaer
+ 4561  ls
+ 4562  clear
+ 4563  ls
+ 4564  git remote add origin git@github.com:yearnwang/fengshui_hexo.git
+ 4565  git push -u origin master
+ 4566  ls
+ 4567  clear
+ 4568  git remote add origin https://github.com/yearnwang/fengshui_hexo.git
+ 4569  git pull
+ 4570  ls -la
+ 4571  git remote add origin https://github.com/yearnwang/fengshui_hexo.git\n
+ 4572  ls
+ 4573  git remote add origin https://github.com/yearnwang/fengshui_hexo.git
+ 4574  ls
+ 4575  cd ..
+ 4576  ls
+ 4577  cd fengshui_hexo
+ 4578  ls
+ 4579  clear
+ 4580  git remote add origin https://github.com/yearnwang/fengshui_hexo.git
+ 4581  git remote rm origin
+ 4582  git remote add origin https://github.com/yearnwang/fengshui_hexo.git
+ 4583  git push -u origin master
+ 4584  ls
+ 4585  git pull
+ 4586  git add . --all
+ 4587  git commit -m 'import'
+ 4588  git push
+ 4589  ls
+ 4590  pwd
+ 4591  ls
+ 4592  cd ..
+ 4593  ls
+ 4594  cd ..
+ 4595  ls
+ 4596  mkdir ffff
+ 4597  cd ffff
+ 4598  ls
+ 4599  git https://github.com/yearnwang/fengshui_hexo.git
+ 4600  git clone https://github.com/yearnwang/fengshui_hexo.git
+ 4601  ls
+ 4602  cd fengshui_hexo
+ 4603  ls
+ 4604  cd eeeee
+ 4605  ls
+ 4606  cd fengshui_hexo
+ 4607  ls
+ 4608  cd ..
+ 4609  ls
+ 4610  cd ..
+ 4611  ls
+ 4612  cd ..
+ 4613  ls
+ 4614  cd ..
+ 4615  ls
+ 4616  rm -rf ffff
+ 4617  ls
+ 4618  cd eeeee
+ 4619  ls
+ 4620  cd fengshui_hexo
+ 4621  ls
+ 4622  cd ..
+ 4623  ls
+ 4624  cd fengshui_hexo
+ 4625  ls
+ 4626  git pull
+ 4627  git push
+ 4628  ls
+ 4629  ls -la
+ 4630  cd ..
+ 4631  ls
+ 4632  ls -la
+ 4633  cd fengshui_hexo
+ 4634  ls
+ 4635  cd ..
+ 4636  ls
+ 4637  mkdir cc
+ 4638  cd cc
+ 4639  ls
+ 4640  git clone https://github.com/yearnwang/fengshui_hexo.git
+ 4641  ls
+ 4642  cd fengshui_hexo
+ 4643  ls
+ 4644  rm -rf eeeee
+ 4645  git add .
+ 4646  git commit -m 'update'
+ 4647  ls
+ 4648  git commit -m 'update'
+ 4649  git push
+ 4650  git pull
+ 4651  ls
+ 4652  cd ..
+ 4653  ls
+ 4654  cd ..
+ 4655  ls
+ 4656  cd ..
+ 4657  ls
+ 4658  cd eeeee
+ 4659  ls
+ 4660  c fengshui_hexo
+ 4661  cd fengshui_hexo
+ 4662  ls
+ 4663  cd ..
+ 4664  ls
+ 4665  cd fengshui_hexo
+ 4666  ls
+ 4667  ls -la
+ 4668  cd ..
+ 4669  ls
+ 4670  git clone https://github.com/yearnwang/fengshui_hexo.git
+ 4671  cd cc
+ 4672  ls
+ 4673  cd fengshui_hexo
+ 4674  ls
+ 4675  cd ..
+ 4676  ls
+ 4677  cd ..
+ 4678  ls
+ 4679  cp -r fengshui_hexo/. cc/fengshui_hexo/.
+ 4680  ls
+ 4681  cd cc
+ 4682  ls
+ 4683  cd fengshui_hexo
+ 4684  ls
+ 4685  ls -la
+ 4686  git add .
+ 4687  git commit -m 'add'
+ 4688  git psuh
+ 4689  git push
+ 4690  git pull
+ 4691  ls
+ 4692  cd ..
+ 4693  ls
+ 4694  cd ..
+ 4695  ls
+ 4696  cd ..
+ 4697  ls
+ 4698  cd Desktop
+ 4699  ls
+ 4700  mkdir ccc
+ 4701  cd c
+ 4702  cd ccc/ls
+ 4703  cd ccc/
+ 4704  ls
+ 4705  clear
+ 4706  ls
+ 4707  clear
+ 4708  git clone https://github.com/yearnwang/fengshui_hexo.git
+ 4709  ls
+ 4710  cd fengshui_hexo
+ 4711  ls
+ 4712  npm install
+ 4713  ls
+ 4714  vim _config.yml
+ 4715  ls
+ 4716  cat ds.sh
+ 4717  cat hexo-deploy.sh
+ 4718  cat hexo_app.sh
+ 4719  cleaer
+ 4720  ls
+ 4721  clear
+ 4722  ls
+ 4723  hexo clean
+ 4724  hexo g
+ 4725  hexo d
+ 4726  ls
+ 4727  vim _config.yml
+ 4728  hexo d
+ 4729  ls
+ 4730  exit
+ 4731  cd ~/Desktop
+ 4732  ls
+ 4733  echo "# fsblog_-Generator" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit remote add origin https://github.com/yearnwang/fsblog_-Generator.git\ngit push -u origin master
+ 4734  ls
+ 4735  mkdir c
+ 4736  cd c
+ 4737  ls
+ 4738  echo "# fsblog_-Generator" >> README.md
+ 4739  git init
+ 4740  git add README.md
+ 4741  git commit -m "first commit"
+ 4742  git remote add origin https://github.com/yearnwang/fsblog_-Generator.git
+ 4743  git push -u origin master
+ 4744  ls
+ 4745  cd ..
+ 4746  ls
+ 4747  cd d
+ 4748  ls
+ 4749  tar xvzf fs.tar.gz
+ 4750  ls
+ 4751  cd fengshui_hexo
+ 4752  ls
+ 4753  find . -name ".git" | xargs rm -Rf
+ 4754  ls
+ 4755  ls -la
+ 4756  find . -name ".deploy_git" | xargs rm -Rf
+ 4757  ls
+ 4758  cd node_modules
+ 4759  ls
+ 4760  cd ..
+ 4761  ls
+ 4762  cd source
+ 4763  ls
+ 4764  cd ..
+ 4765  ls
+ 4766  hexo clean
+ 4767  ls
+ 4768  cd ..
+ 4769  ls
+ 4770  cd ..
+ 4771  ls
+ 4772  cd c
+ 4773  ls
+ 4774  cd ~/Desktop
+ 4775  ls
+ 4776  cd c
+ 4777  ls
+ 4778  git add .
+ 4779  ls
+ 4780  git commit -m 'import project'
+ 4781  ls
+ 4782  git pull
+ 4783  git push
+ 4784  ls
+ 4785  cd ..
+ 4786  ls
+ 4787  git clone https://github.com/yearnwang/fsblog_-Generator.git
+ 4788  ls
+ 4789  cd fsblog_-Generator
+ 4790  ls
+ 4791  npm install
+ 4792  ls
+ 4793  hexo clean
+ 4794  hexo g
+ 4795  hexo d
+ 4796  ls
+ 4797  vim _config.yml
+ 4798  ls
+ 4799  cat ds.sh
+ 4800  ls
+ 4801  cat hexo_app.sh
+ 4802  cat hexo-deploy.sh
+ 4803  ls
