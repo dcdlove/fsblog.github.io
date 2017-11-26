@@ -71,7 +71,7 @@ theme: jacman
 deploy:
   type: git
   repo: https://github.com/yearnwang/fsblog.github.io.git
-  branch: master
+  branch: fs-pages
 
 #port
 server:
