@@ -1,0 +1,43 @@
+
+<div class="doubanshow">
+<p class="asidetitle"><%= __('个人介绍') %></p>
+
+<div>
+	<div class="profile">
+	<a href="about/"><img src="http://fs-image.pull.net.cn/logo.jpeg" alt="查看藏风聚气的详细资料" /></a>
+			<h2>藏风聚气</h2>
+			<h2> QQ:50009979</h2>
+			<h2>职业:阴阳风水命理师</h2>
+	</div>
+<br>
+			<suo-p2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从小受到周易文化熏陶，传承先人周易学识，精通八字命理、独门阴阳秘传风水、六爻等易学知识。入道后，游走于山东、太原、昆明、南京等地，积累经验。学习各家之所长，与祖传知识结合加以运用，总结出高效的独特的风水调理方法、准确率极高周易预测方法，得到客户的一致好评。</suo-p2>
+	<div class="main-grid3">
+				
+					<div class="bar">
+						<p><a href="风水案例/index.html">阴阳风水/金锁玉关/八宅</a></p>
+					</div>
+				<div class="skills">
+					 <div class="skill1" style="width:100%"> </div>							
+				</div>
+					<div class="bar">
+						<p><a href="八字案例/index.html">阴阳八字</a></p>
+					</div>
+				<div class="skills">
+					 <div class="skill2" style="width:100%"> </div>							
+				</div>
+					<div class="bar">
+						<p><a href="六爻案例/index.html">六爻</a></p>
+					</div>
+				<div class="skills">
+					 <div class="skill3" style="width:100%"> </div>							
+				</div>
+					<div class="bar">
+						<p><a href="起名/index.html">起名</a></p>
+					</div>
+				<div class="skills">
+					 <div class="skill3" style="width:100%"> </div>							
+				</div>
+
+			</div>
+</div>
+</div>
