@@ -70,7 +70,7 @@ theme: jacman
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/yearnwang/fsblog.github.io.git
+  repo: https://yearnwang@github.com/yearnwang/fsblog.github.io.git
   branch: gh-pages 
 
 #port
